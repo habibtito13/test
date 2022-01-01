@@ -1,42 +1,36 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/habibtito13/iptv/main/epg.xml"
-#EXTINF:-1  tvg-id="DiscoveryChannelCanada.us" group-title="Documentary CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/DISCOVERYCANADA.png",CA | DISCOVERY
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19897
-#EXTINF:-1  tvg-id="ParamountNetworkCanada.us" group-title="Documentary CA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Paramount Network Canada
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19878
-#EXTINF:-1  tvg-id="AnimalPlanetCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26823_ll_h3_ad.png",Animal Planet CA (720p)
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/133460
 #EXTINF:-1  tvg-id="CCTV9.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9纪录 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1  tvg-id="CGTNDocumentary.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1  tvg-id="CGTNDocumentary.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary (576p)
 http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-#EXTINF:-1  tvg-id="CottageLifeTV.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26779_ll_h3_aa.png",Cottage Life CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/477
-#EXTINF:-1  tvg-id="CrimePlusInvestigationCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s61621_ll_h3_aa.png",Crime + Investigation CA
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19910
-#EXTINF:-1  tvg-id="DiscoveryScienceCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s76887_ll_h3_aa.png",Discovery Science CA
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19895
-#EXTINF:-1  tvg-id="DIYNetworkCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26829_ll_h3_aa.png",DIY Network CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/469
-#EXTINF:-1  tvg-id="DTourEast.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s17693_ll_h3_ab.png",DTOUR CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9238
-#EXTINF:-1  tvg-id="HGTVAsia.us" group-title="Documentary CA" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png",HGTV
-http://4rr0w.my.id/tvbusek/hgtv.m3u8
-#EXTINF:-1  tvg-id="HGTVCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s17638_ll_h3_ab.png",HGTV CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/283117
-#EXTINF:-1  tvg-id="HistoryCanadaEast.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s65619_ll_h3_aa.png",History CA
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72013
 #EXTINF:-1  tvg-id="HistoryEast.us" group-title="Documentary" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="History2Canada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26772_ll_h3_ab.png",History2 CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/279151
-#EXTINF:-1  tvg-id="HLN.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s10145_ll_h3_ab.png",HLN CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13223
-#EXTINF:-1  tvg-id="InvestigationDiscoveryCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26884_ll_h3_aa.png",Investigation Discovery CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282882
 #EXTINF:-1  tvg-id="LawCrime.us" group-title="Documentary" tvg-logo="https://i.imgur.com/HY64Nhe.png",Law & Crime (720p)
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1  tvg-id="NBSKoreaAgriculturalBroadcasting.kr" group-title="Documentary" tvg-logo="https://i.imgur.com/loWf3B5.jpg",NBS Korea Agricultural Broadcasting (720p)
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+#EXTINF:-1  tvg-id="Reelz.us" group-title="Documentary" tvg-logo="https://i.imgur.com/UQjtEqR.png",Reelz (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
+#EXTINF:-1  tvg-id="RTDoc.ru" group-title="Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary (1080p)
+https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
+#EXTINF:-1  tvg-id="AnimalPlanetCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26823_ll_h3_ad.png",Animal Planet CA (720p)
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/133460
+#EXTINF:-1  tvg-id="CrimePlusInvestigationCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s61621_ll_h3_aa.png",Crime + Investigation CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19910
+#EXTINF:-1  tvg-id="DiscoveryChannelCanada.us" group-title="Documentary CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/DISCOVERYCANADA.png",Discovery Channel Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19897
+#EXTINF:-1  tvg-id="DiscoveryScienceCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s76887_ll_h3_aa.png",Discovery Science CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19895
+#EXTINF:-1  tvg-id="DTourEast.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s17693_ll_h3_ab.png",DTOUR CA
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9238
+#EXTINF:-1  tvg-id="HistoryCanadaEast.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s65619_ll_h3_aa.png",History CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72013
+#EXTINF:-1  tvg-id="History2Canada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26772_ll_h3_ab.png",History2 CA
+http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/279151
+#EXTINF:-1  tvg-id="InvestigationDiscoveryCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26884_ll_h3_aa.png",Investigation Discovery CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19896
 #EXTINF:-1  tvg-id="LoveNature.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",Love Nature CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
 #EXTINF:-1  tvg-id="Makeful.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s46217_ll_h3_aa.png",Makeful CA
@@ -45,14 +39,36 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9228
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19883
 #EXTINF:-1  tvg-id="NationalGeographicWildCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s75447_ll_h3_ad.png",National Geographic Wild CA
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19882
-#EXTINF:-1  tvg-id="NBSKoreaAgriculturalBroadcasting.kr" group-title="Documentary" tvg-logo="https://i.imgur.com/loWf3B5.jpg",NBS Korea Agricultural Broadcasting (720p)
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1  tvg-id="Reelz.us" group-title="Documentary" tvg-logo="https://i.imgur.com/UQjtEqR.png",Reelz (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokureelzchannel/CDN/playlist.m3u8
-#EXTINF:-1  tvg-id="RTDoc.ru" group-title="Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary (1080p)
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8
-#EXTINF:-1  tvg-id="SmithsonianChannelCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s65799_h3_aa.png",Smithsonian Channel CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/34738
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/A&E.png",A&E Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/147249
+#EXTINF:-1  tvg-id="CookingChannelCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/COOKINGCHANNEL.png",Cooking Channel Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72024
+#EXTINF:-1  tvg-id="CottageLifeTV.ca" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/COTTAGELIFE.png",Cottage Life TV
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19916
+#EXTINF:-1  tvg-id="DIYNetworkCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/DIY.png",DIY Network Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72021
+#EXTINF:-1  tvg-id="ECanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/E!CANADA.png",E! Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/147248
+#EXTINF:-1  tvg-id="FoodNetworkCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/FOODNETWORK.png",Food Network Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19892
+#EXTINF:-1  tvg-id="N/A" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/GSN.png",GSN Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/147251
+#EXTINF:-1  tvg-id="HGTVCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HGTV.png",HGTV Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19889
+#EXTINF:-1  tvg-id="HLN.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/HLN.png",HLN CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/147252
+#EXTINF:-1  tvg-id="LifetimeCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/LIFETIME.png",Lifetime Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72012
+#EXTINF:-1  tvg-id="OLN.ca" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/OLN.png",OLN
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72009
+#EXTINF:-1  tvg-id="ParamountNetworkCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Paramount Network Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19878
+#EXTINF:-1  tvg-id="Slice.ca " group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/SLICE.png",Slice
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19876
+#EXTINF:-1  tvg-id="TLCCanada.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/USA/TLCHD.png",TLC Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/147250
+#EXTINF:-1  tvg-id="WGNTV.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/WGN.png",WGN-TV
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19870
 #EXTINF:-1  tvg-id="ABCTV.au" group-title="General" tvg-logo="https://i.imgur.com/rLCHYCs.png",ABC TV (720p)
 https://c.mjh.nz/3201026102E1
 #EXTINF:-1  tvg-id="ArirangWorld.kr" group-title="General" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png",Arirang (1080p)
