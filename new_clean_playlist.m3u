@@ -1,62 +1,50 @@
-#EXTM3U "https://raw.githubusercontent.com/habibtito13/iptv/main/epg.xml"
-#EXTINF:-1  tvg-id="AnimalPlanetCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26823_ll_h3_ad.png",Animal Planet CA (720p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/273383
-#EXTINF:-1  tvg-id="AnimalPlanetSoutheastAsia.us" group-title="Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dfc9b51e6fd2d69095c41309744b9422.png",Animal Planet MY (720p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157532
-#EXTINF:-1  tvg-id="BBCEarthAsia.uk" group-title="Documentary" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",BBC Earth (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171979
+#EXTM3U url-tvg="https://raw.githubusercontent.com/habibtito13/iptv/main/epg.xml"
+#EXTINF:-1  tvg-id="DiscoveryChannelCanada.us" group-title="Documentary CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/DISCOVERYCANADA.png",CA | DISCOVERY
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19897
+#EXTINF:-1  tvg-id="ParamountNetworkCanada.us" group-title="Documentary CA" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Paramount Network Canada
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19878
+#EXTINF:-1  tvg-id="AnimalPlanetCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26823_ll_h3_ad.png",Animal Planet CA (720p)
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/133460
 #EXTINF:-1  tvg-id="CCTV9.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/11/CCTV-9_Logo.png",CCTV-9纪录 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
 #EXTINF:-1  tvg-id="CGTNDocumentary.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary (576p)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225645/index.m3u8
 #EXTINF:-1  tvg-id="CGTNDocumentary.cn" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png",CGTN Documentary (576p)
 http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-#EXTINF:-1  tvg-id="CottageLifeTV.ca" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26779_ll_h3_aa.png",Cottage Life CA
+#EXTINF:-1  tvg-id="CottageLifeTV.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26779_ll_h3_aa.png",Cottage Life CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/477
-#EXTINF:-1  tvg-id="CrimePlusInvestigationAsia.us" group-title="Documentary" tvg-logo="https://www.useetv.com/pimages/logo_crimeinvestigation_big.png",Crime + Investigation Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/crimin.m3u8
-#EXTINF:-1  tvg-id="CrimePlusInvestigationCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s61621_ll_h3_aa.png",Crime + Investigation CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/273252
-#EXTINF:-1  tvg-id="DiscoveryChannelSoutheastAsia.us" group-title="Documentary" tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png",Discovery Channel Southeast Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/dsc.m3u8
-#EXTINF:-1  tvg-id="DiscoveryScienceCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s76887_ll_h3_aa.png",Discovery Science CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/273697
-#EXTINF:-1  tvg-id="DIYNetworkCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26829_ll_h3_aa.png",DIY Network CA
+#EXTINF:-1  tvg-id="CrimePlusInvestigationCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s61621_ll_h3_aa.png",Crime + Investigation CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19910
+#EXTINF:-1  tvg-id="DiscoveryScienceCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s76887_ll_h3_aa.png",Discovery Science CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19895
+#EXTINF:-1  tvg-id="DIYNetworkCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26829_ll_h3_aa.png",DIY Network CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/469
-#EXTINF:-1  tvg-id="DMAXSoutheastAsia.us" group-title="Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2f04ded06f1bd6b096bd29a4cb899750.png",DMAX (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/158351
-#EXTINF:-1  tvg-id="DTourEast.ca" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s17693_ll_h3_ab.png",DTOUR CA
+#EXTINF:-1  tvg-id="DTourEast.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s17693_ll_h3_ab.png",DTOUR CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9238
-#EXTINF:-1  tvg-id="HGTVAsia.us" group-title="Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png",HGTV
+#EXTINF:-1  tvg-id="HGTVAsia.us" group-title="Documentary CA" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png",HGTV
 http://4rr0w.my.id/tvbusek/hgtv.m3u8
-#EXTINF:-1  tvg-id="HGTVCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s17638_ll_h3_ab.png",HGTV CA
+#EXTINF:-1  tvg-id="HGTVCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s17638_ll_h3_ab.png",HGTV CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/283117
-#EXTINF:-1  tvg-id="HistoryAsia.us" group-title="Documentary" tvg-logo="https://www.useetv.com/pimages/logo_history_big.png",History
-http://4rr0w.my.id/tvbusek/hstry.m3u8
-#EXTINF:-1  tvg-id="HistoryCanadaEast.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s65619_ll_h3_aa.png",History CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/274304
+#EXTINF:-1  tvg-id="HistoryCanadaEast.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s65619_ll_h3_aa.png",History CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/72013
 #EXTINF:-1  tvg-id="HistoryEast.us" group-title="Documentary" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",History East (720p) [Not 24/7]
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-#EXTINF:-1  tvg-id="History2Canada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26772_ll_h3_ab.png",History2 CA
+#EXTINF:-1  tvg-id="History2Canada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26772_ll_h3_ab.png",History2 CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/279151
-#EXTINF:-1  tvg-id="HLN.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s10145_ll_h3_ab.png",HLN CA
+#EXTINF:-1  tvg-id="HLN.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s10145_ll_h3_ab.png",HLN CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/13223
-#EXTINF:-1  tvg-id="InvestigationDiscoveryCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26884_ll_h3_aa.png",Investigation Discovery CA
+#EXTINF:-1  tvg-id="InvestigationDiscoveryCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26884_ll_h3_aa.png",Investigation Discovery CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/282882
 #EXTINF:-1  tvg-id="LawCrime.us" group-title="Documentary" tvg-logo="https://i.imgur.com/HY64Nhe.png",Law & Crime (720p)
 http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1  tvg-id="LoveNature.ca" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",Love Nature CA
+#EXTINF:-1  tvg-id="LoveNature.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s52745_ll_h3_ab.png",Love Nature CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/1723
-#EXTINF:-1  tvg-id="Makeful.ca" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s46217_ll_h3_aa.png",Makeful CA
+#EXTINF:-1  tvg-id="Makeful.ca" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s46217_ll_h3_aa.png",Makeful CA
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/9228
-#EXTINF:-1  tvg-id="NationalGeographicAsia.us" group-title="Documentary" tvg-logo="https://www.useetv.com/pimages/logo_natgeo_big.png",National Geographic Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/ngc.m3u8
-#EXTINF:-1  tvg-id="NationalGeographicCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s26882_ll_h3_ab.png",National Geographic CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/274074
-#EXTINF:-1  tvg-id="NationalGeographicWildAsia.us" group-title="Documentary" tvg-logo="https://www.useetv.com/pimages/logo_natgeowild_big.png",National Geographic Wild Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/ngw.m3u8
-#EXTINF:-1  tvg-id="NationalGeographicWildCanada.us" group-title="Documentary" tvg-logo="http://fanc.tmsimg.com/assets/s75447_ll_h3_ad.png",National Geographic Wild CA
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/274075
+#EXTINF:-1  tvg-id="NationalGeographicCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s26882_ll_h3_ab.png",National Geographic CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19883
+#EXTINF:-1  tvg-id="NationalGeographicWildCanada.us" group-title="Documentary CA" tvg-logo="http://fanc.tmsimg.com/assets/s75447_ll_h3_ad.png",National Geographic Wild CA
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19882
 #EXTINF:-1  tvg-id="NBSKoreaAgriculturalBroadcasting.kr" group-title="Documentary" tvg-logo="https://i.imgur.com/loWf3B5.jpg",NBS Korea Agricultural Broadcasting (720p)
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1  tvg-id="Reelz.us" group-title="Documentary" tvg-logo="https://i.imgur.com/UQjtEqR.png",Reelz (720p)
@@ -69,10 +57,6 @@ http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/3473
 https://c.mjh.nz/3201026102E1
 #EXTINF:-1  tvg-id="ArirangWorld.kr" group-title="General" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png",Arirang (1080p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="AsianFoodNetwork.sg" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png",Asian Food Network HD MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157549
-#EXTINF:-1  tvg-id="BBCLifestyleAsia.uk" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",BBC Lifestyle (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171976
 #EXTINF:-1  tvg-id="BloombergQuicktake.us" group-title="General" tvg-logo="https://www.adweek.com/wp-content/uploads/2019/12/quicktake-bloomberg-tictoc-CONTENT-2019-640x360.jpg",Bloomberg Quicktake (1080p)
 https://bloomberg-quicktake-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="BumblebeeTVCoronaVirusGov.us" group-title="General" tvg-logo="https://i.imgur.com/yxq8ZsK.png",Bumblebee TV CoronaVirus.Gov (720p)
@@ -87,40 +71,18 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1  tvg-id="Comet.us" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Comet_TV_Logo.png",Comet (720p)
 http://content.uplynk.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
-#EXTINF:-1  tvg-id="Ent.id" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png",Ent ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157581
 #EXTINF:-1  tvg-id="FashionTVEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/E38ZhCz.jpg",Fashion TV (1080p)
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
 #EXTINF:-1  tvg-id="FashionTVEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/auHH1Ig.png",Fashion TV Midnight (1080p)
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-#EXTINF:-1  tvg-id="FoodNetworkAsia.us" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6ca471ab3849dccf46c8cf9be5e74478.png",Food Network (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/196454
-#EXTINF:-1  tvg-id="FoxCrime.id" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png",Fox Crime ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165076
-#EXTINF:-1  tvg-id="FoxEast.us" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e399d70a5dda7600a79c057ae8e8ceb.png",Fox ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165080
-#EXTINF:-1  tvg-id="FoxLifeUSA.us" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png",Fox Life ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165083
 #EXTINF:-1  tvg-id="JIBSSBS.kr" group-title="General" tvg-logo="http://jibs.co.kr/resources/common/img/bottom_logo.png",JIBS SBS (720p) [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1  tvg-id="KPlus.kr" group-title="General" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K+
 http://210.210.155.35/session/7079735e-3130-11eb-9468-c81f66f89318/uq2663/h/h08/01.m3u8
 #EXTINF:-1  tvg-id="KBSWorld.kr" group-title="General" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/KBS.png",KBS World (576p)
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="Life.id" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Life (MNCNow)
-https://anevia114.mncnow.id/live/eds/Life/sa_hls/Life-avc1_1000000=8-mp4a_66000_eng=2.m3u8
-#EXTINF:-1  tvg-id="LifetimeAsia.us" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Lifetime ID
-http://4rr0w.my.id/tvbusek/lftm.m3u8
 #EXTINF:-1  tvg-id="MakkahTV.sa" group-title="General" tvg-logo="https://i.imgur.com/5p2yUBb.png",Makkah TV (480p)
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
-#EXTINF:-1  tvg-id="MTA2Europe.id" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a902cc12d2d0916c946176086b5df2c.png",MTA 2 Europe ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/162522
-#EXTINF:-1  tvg-id="MTA3.id" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",MTA 3 ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266815
-#EXTINF:-1  tvg-id="Naura.my" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584d9ff2d74ae50ee1bdd7928c24c24c.png",Naura HD MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157490
-#EXTINF:-1  tvg-id="NTV7.my" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",NTV 7 (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/174695
 #EXTINF:-1  tvg-id="OutdoorAmerica.us" group-title="General" tvg-logo="https://i.imgur.com/ldh9sFG.png",Outdoor America (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8
 #EXTINF:-1  tvg-id="OutdoorChannel.us" group-title="General" tvg-logo="http://i.mjh.nz/.images/tv.7outdoor.png",Outdoor Channel (1080p)
@@ -133,8 +95,6 @@ https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 http://93.157.62.180/PeaceTV/index.m3u8
 #EXTINF:-1  tvg-id="PeaceTVEnglish.ae" group-title="General" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/english.jpg",Peace TV English (1080p)
 http://199.223.252.162:8032/english_adaptive/index.m3u8
-#EXTINF:-1  tvg-id="PhoenixChineseChannel.hk" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",PHOENIX (720p) (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285304
 #EXTINF:-1  tvg-id="RedBullTV.at" group-title="General" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1  tvg-id="RedBullTV.at" group-title="General" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV (480p)
@@ -143,52 +103,24 @@ https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master_928.m3u8
 https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/playlist.m3u8
 #EXTINF:-1  tvg-id="TheIndonesiaChannel.id" group-title="General" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/The_Indonesia_Channel_Logo.jpg",The Indonesia Channel (720p) [Not 24/7]
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1  tvg-id="TLCSoutheastAsia.us" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51684e0c028f4c7c9fccf04aa4dd9c8d.png",TLC (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157483
-#EXTINF:-1  tvg-id="TRTWorld.id" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",TRT World ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165074
-#EXTINF:-1  tvg-id="TV9.my" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png",TV 9 (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171953
-#EXTINF:-1  tvg-id="TV9Nusantara.id" group-title="General" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png",TV 9 Nusantara ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/162509
-#EXTINF:-1  tvg-id="TV3.my" group-title="General" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",TV3 (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/171954
 #EXTINF:-1  tvg-id="TV5MondeEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/mwHtXya.jpg",TV5 Monde Europe (1080p)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
-#EXTINF:-1  tvg-id="BoomerangSouthEastAsia.us" group-title="Kids" tvg-logo="https://www.useetv.com/pimages/logo_boomerang_big.png",Boomerang [UseeGO]
-http://4rr0w.my.id/tvbusek/bmrg.m3u8
-#EXTINF:-1  tvg-id="CartoonNetworkAsia.us" group-title="Kids" tvg-logo="https://www.useetv.com/pimages/logo_cartoonnetwork_big.png",Cartoon Network [UseeGO]
-http://4rr0w.my.id/tvbusek/cnt.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Kids" tvg-logo="https://www.useetv.com/pimages/logo_horee_big.png",Horee! [UseeGO]
-http://4rr0w.my.id/tvbusek/hr.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Kids" tvg-logo="https://www.useetv.com/pimages/logo_indikids_big.png",Indikids [UseeGO]
-http://4rr0w.my.id/tvbusek/indik.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Kids" tvg-logo="https://www.useetv.com/pimages/logo_mykids_big.png",Mykids [UseeGO]
-http://4rr0w.my.id/tvbusek/mkdz.m3u8
 #EXTINF:-1  tvg-id="flix.in" group-title="Movies" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/R45cqkBC.png",&flix (720p)
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/45506
 #EXTINF:-1  tvg-id="pictures.in" group-title="Movies" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/288dmSbW.png",&pictures (720p)
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/16958
 #EXTINF:-1  tvg-id="priveHD.in" group-title="Movies" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/fO8ZBzjf.png",&privé HD (720p)
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/49557
-#EXTINF:-1  tvg-id="AnimaxAsia.jp" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png",Animax [UseeGO]
-http://4rr0w.my.id/tvbusek/amx.m3u8
 #EXTINF:-1  tvg-id="AnimaxAsia.jp" group-title="Movies" tvg-logo="https://i.imgur.com/zpi6mQ3.png",Animax Japan
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157486
 #EXTINF:-1  tvg-id="ANIPlus.id" group-title="Movies" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg",ANIplus (576p)
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1  tvg-id="AsianetMovies.my" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/0f053feccc75c6742224ea9ae6c1efae.png",Asianet Movies (1080p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/174701
 #EXTINF:-1  tvg-id="AXNEastAsia.us" group-title="Movies" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png",AXN
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7223
 #EXTINF:-1  tvg-id="AXNEastAsia.us" group-title="Movies" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png",AXN Asia (720p) TH
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="AXNEastAsia.us" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_axn_big.png",AXN Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/axn.m3u8
 #EXTINF:-1  tvg-id="BflixMovies.in" group-title="Movies" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg",Bflix Movies (480p)
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_bioskopindonesia_big1.png",Bioskop Indonesia [UseeGO]
-http://4rr0w.my.id/tvbusek/bkpid.m3u8
 #EXTINF:-1  tvg-id="CCTV6.cn" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0c/CCTV-6_Logo.png",CCTV-6电影 (1080p)
 http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1  tvg-id="CelestialClassicMovies.hk" group-title="Movies" tvg-logo="https://1.bp.blogspot.com/-JitJUuWTMxg/VH--1LtXqGI/AAAAAAAAAo0/FL_bgsBFjeU/s1600/CELESTIAL%2BCLASSIC%2BMOVIES%2Blogo.png",Celestial Classic 天映经典 (540p) [Not 24/7]
@@ -197,86 +129,38 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1  tvg-id="Charge.us" group-title="Movies" tvg-logo="https://i.imgur.com/fuw0hHE.png",Charge! (720p)
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1  tvg-id="ChineseDrama.cn" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_chinesedrama_big.png",Chinese Drama [UseeGO]
-http://4rr0w.my.id/tvbusek/chidrm.m3u8
 #EXTINF:-1  tvg-id="ChineseDrama.cn" group-title="Movies" tvg-logo="https://images.useetv.com/logo_chinesedrama_big.png?v=2.0.0.13",Chinese Drama [UseeTV]
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=c24cd76e1ce41366a4bbe8a49b02a028f93fb3c9879684db94f7af38b446022a
 #EXTINF:-1  tvg-id="CinemaxAsia.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax
 http://4rr0w.my.id/wolftv/go.m3u8?ch=max
 #EXTINF:-1  tvg-id="CinemaxAsia.us" group-title="Movies" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png",Cinemax TH (720p)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_cdrama_big.png",Citra Drama [UseeGO]
-http://4rr0w.my.id/tvbusek/cdrm.m3u8
 #EXTINF:-1  tvg-id="ClassicMoviesChannel.us" group-title="Movies" tvg-logo="https://i.imgur.com/pltVS6t.png",Classic Movies Channel (480p)
 https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8
 #EXTINF:-1  tvg-id="CONtvAnime.us" group-title="Movies" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fa1b7168f9c26008859a893",CONtv Anime (1080p)
 https://contvanime-localnow.cinedigm.com/playlist.m3u8
-#EXTINF:-1  tvg-id="DreamWorksTVAsia.us" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_dreamworks_big1.png",DreamWorks TV Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/drmwk.m3u8
-#EXTINF:-1  tvg-id="FMN.id" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png",FMN ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165057
 #EXTINF:-1  tvg-id="FoxEast.us" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e399d70a5dda7600a79c057ae8e8ceb.png",FOX
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7227
-#EXTINF:-1  tvg-id="FoxMoviesAction.id" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Fox Action Movies ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157608
-#EXTINF:-1  tvg-id="FoxMovies.us" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Fox Action Movies ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165078
 #EXTINF:-1  tvg-id="FoxCrime.id" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5bb07886b4c8a97d8138b57601ce3f4f.png",Fox Crime
 http://iptv.tvmalaysia.cc:80/penang175/penang175/7225
-#EXTINF:-1  tvg-id="FoxFamilyMovies.my" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Fox Family Movies (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157570
-#EXTINF:-1  tvg-id="FoxFamilyMovies.id" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f3c80306dd7c7ecc095c9d4d21750f1b.png",Fox Family Movies ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157595
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_galaxy_big.png",Galaxy [UseeGO]
-http://4rr0w.my.id/tvbusek/glx.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_galaxypremium_big.png",Galaxy Premium [UseeGO]
-http://4rr0w.my.id/tvbusek/glxpr.m3u8
 #EXTINF:-1  tvg-id="Gem.in" group-title="Movies" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png",GEM
 http://210.210.155.35:80/uq2663/h/h19/01.m3u8
 #EXTINF:-1  tvg-id="HBOAsia.us" group-title="Movies" tvg-logo="https://i.ibb.co/n600MdC/hbo.png",HBO
 https://link.zozotv.xyz:443/707070/707070/96
-#EXTINF:-1  tvg-id="HBOAsia.us" group-title="Movies" tvg-logo="https://www.tvchinese.net/uploads/tv/hbohd.jpg",HBO (720p)
-http://4rr0w.my.id/wolftv/go.m3u8?ch=hbo
 #EXTINF:-1  tvg-id="HBOFamilyAsia.us" group-title="Movies" tvg-logo="https://i.ibb.co/TmGc8Tw/gxy.png",HBO Family
 https://link.zozotv.xyz:443/707070/707070/98
-#EXTINF:-1  tvg-id="HBOFamilyAsia.us" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.jpg",HBO Family (720p)
-http://4rr0w.my.id/wolftv/go.m3u8?ch=fam
 #EXTINF:-1  tvg-id="HBOHits.us" group-title="Movies" tvg-logo="https://i.ibb.co/pQW1JcG/xyfs.png",HBO Hits
 https://link.zozotv.xyz:443/707070/707070/97
-#EXTINF:-1  tvg-id="HBOHits.us" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_hits.jpg",HBO Hits (720p)
-http://4rr0w.my.id/wolftv/go.m3u8?ch=hits
 #EXTINF:-1  tvg-id="HBOSignatureAsia.us" group-title="Movies" tvg-logo="https://i.ibb.co/zX9LRZd/BDZ.png",HBO Signature
 https://link.zozotv.xyz:443/707070/707070/99
-#EXTINF:-1  tvg-id="HBOSignatureAsia.us" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.jpg",HBO Signature (720p)
-http://4rr0w.my.id/wolftv/go.m3u8?ch=sig
-#EXTINF:-1  tvg-id="Hits.sg" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_hits_big.png",Hits ID
-http://4rr0w.my.id/tvbusek/hits.m3u8
-#EXTINF:-1  tvg-id="HitsMovies.sg" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Hits Movies ID
-http://4rr0w.my.id/tvbusek/hitsmo.m3u8
-#EXTINF:-1  tvg-id="Iqiyi.cn" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/f12ce2b1d8e8efc42375f98d9f31ad62.jpg",Iqiyi (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157501
-#EXTINF:-1  tvg-id="Kix.hk" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png",KIX [UseeGO]
-http://4rr0w.my.id/tvbusek/kix.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png",My Cinema Asia [UseeGO]
-http://4rr0w.my.id/tvbusek/mca.m3u8
 #EXTINF:-1  tvg-id="mycinema.id" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkzUyvUrpdJMiWc0UkoMi_dN5FfOUhLye8JQcW5TG7uAclebb7j-qynb1-7u39HzjMxo&usqp=CAU",mycinema
 http://210.210.155.35/session/aefb538a-7c46-11ea-a7a4-b82a72d63267/uq2663/h/h90/S4/mnf.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Netflix Comedy (1080p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/43836
-#EXTINF:-1  tvg-id="N/A" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Netflix English (720p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/158539
-#EXTINF:-1  tvg-id="OhK.my" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5d85f3256671f1766536884910081383.jpg",Oh K (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157479
 #EXTINF:-1  tvg-id="One.in" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_164.png",ONE
 http://210.210.155.35/session/a3ebedb4-512d-11e9-bf37-c81f66f89318/uq2663/h/h143/index.m3u8
-#EXTINF:-1  tvg-id="ParamountNetworkAsia.us" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Paramount Network [UseeGO]
-http://4rr0w.my.id/tvbusek/paramnt.m3u8
 #EXTINF:-1  tvg-id="RockEntertainment.sg" group-title="Movies" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch517_160_115",Rock Entertainment
 http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
 #EXTINF:-1  tvg-id="RockExtreme.sg" group-title="Movies" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/31/12db2650-0a7b-11ec-8b33-05dadd6cbd44_original.png",Rock Extreme
 http://210.210.155.35/session/37f72a80-3130-11eb-a769-b82a72d63267/dr9445/h/h15/01.m3u8
-#EXTINF:-1  tvg-id="SBSWorldMovies.au" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-01/896a0fa46fbd0db13731aca0b6021818.png",SBS World Movies (720p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/186984
 #EXTINF:-1  tvg-id="ShowcaseMovies.my" group-title="Movies" tvg-logo="https://i.ibb.co/0BxDdg4/2show.png",ShowCase Movies
 https://link.zozotv.xyz:443/707070/707070/385
 #EXTINF:-1  tvg-id="SonyPix.in" group-title="Movies" tvg-logo="https://i.ibb.co/GRdhZmv/sony.png",Sony Pix
@@ -291,34 +175,14 @@ https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
 http://210.210.155.35:80/session/01bdbc8e-a40f-11eb-8209-c81f66f89318/dr9445/h/h20/01.m3u8
 #EXTINF:-1  tvg-id="TVNMoviesIndonesia.kr" group-title="Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_415.png",tvN Movies
 http://210.210.155.35:80/session/cf7019d2-a410-11eb-a56a-c81f66f89318/dr9445/h/h21/01.m3u8
-#EXTINF:-1  tvg-id="TVNMoviesIndonesia.kr" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png",tvN Movies ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157596
-#EXTINF:-1  tvg-id="WarnerTVSoutheastAsia.us" group-title="Movies" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV (720p) [Not 24/7]
-https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="WarnerTVSoutheastAsia.us" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg",Warner TV ID
-http://4rr0w.my.id/tvbusek/wb.m3u8
 #EXTINF:-1  tvg-id="WarnerTVSoutheastAsia.us" group-title="Movies" tvg-logo="http://static.epg.best/fr/WarnerTV.fr.png",Warner TV TH
 http://203.154.243.89:11205
 #EXTINF:-1  tvg-id="ZeeBioskop.in" group-title="Movies" tvg-logo="https://i.imgur.com/CdXieB6.png",Zee Bioskop (360p)
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1  tvg-id="ZeeBioskop.in" group-title="Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png",Zee Bioskop ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157584
-#EXTINF:-1  tvg-id="ZeeCinemaAsia.in" group-title="Movies" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Zee Cinema ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165053
 #EXTINF:-1  tvg-id="CCTV15.cn" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png",CCTV-15音乐 (720p)
 http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=54&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1  tvg-id="KpopTVPlay.br" group-title="Music" tvg-logo="https://kpoptv.live/wp-content/uploads/2021/10/logokpoptvplay.png",KpopTV Play (720p) [Not 24/7]
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-#EXTINF:-1  tvg-id="MTVCanada.us" group-title="Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/44c13cab60011638dcae59fe2506df1e.png",MTV (720p)
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/2584
-#EXTINF:-1  tvg-id="MTVNow.my" group-title="Music" tvg-logo="https://www.useetv.com/pimages/logo_mtvlive_big.png",MTV Live [UseeGO]
-http://4rr0w.my.id/tvbusek/mtvl.m3u8
-#EXTINF:-1  tvg-id="MusicTV.id" group-title="Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png",Music TV ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/165108
-#EXTINF:-1  tvg-id="SunMusic.in" group-title="Music" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ef2ce31aea1ef04d89580ca26fef5a77.jpg",Sun Music (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157496
-#EXTINF:-1  tvg-id="ZingAsia.in" group-title="Music" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Zing ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/266814
 #EXTINF:-1  tvg-id="ABCAustraliaAsia.au" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/52_144.png",ABC Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1  tvg-id="AljazeeraEnglish.qa" group-title="News" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/06/14/DStvNowApp_AlJazeera_new4-4logo_001_xlrg.png",Aljazeera English (1080p)
@@ -333,8 +197,6 @@ http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1  tvg-id="BeritaSatuNewsChannel.id" group-title="News" tvg-logo="https://i.imgur.com/GIGcX5K.png",BeritaSatu World (540p)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-#EXTINF:-1  tvg-id="BloombergTVAsia.us" group-title="News" tvg-logo="https://www.useetv.com/pimages/logo_bloomberg_big1.png",Bloomberg [UseeGO]
-http://4rr0w.my.id/tvbusek/blmbg.m3u8
 #EXTINF:-1  tvg-id="BloombergTV.us" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/78_144.png",Bloomberg TV
 https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1  tvg-id="BloombergTVAsia.us" group-title="News" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Asia (720p)
@@ -361,8 +223,6 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="DWEnglish.de" group-title="News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DW English (1080p)
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1  tvg-id="DWEnglish.de" group-title="News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6993737b3917dba5cf02a1d47cc9b020.png",DW English (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157573
 #EXTINF:-1  tvg-id="EuronewsEnglish.fr" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1000px-Euronews_2016_logo.svg.png",Euronews English (720p)
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1  tvg-id="FoxNewsChannel.us" group-title="News" tvg-logo="http://static.epg.best/us/FoxNews.us.png",Fox News Channel (720p)
@@ -375,38 +235,26 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 #EXTINF:-1  tvg-id="France24English.fr" group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 English (576p)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1  tvg-id="INews.id" group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INews (MNCNow)
-https://liveanevia.mncnow.id/live/eds/InewsTV-Agustus/sa_hls/index.m3u8
 #EXTINF:-1  tvg-id="BeritaSatuEnglish.id" group-title="News" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png",Jakarta Globe News Channel (720p)
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1  tvg-id="MNCNews.id" group-title="News" tvg-logo="https://www.useetv.com/pimages/logo_mncnews_big.png",MNCNews [UseeGO]
-http://4rr0w.my.id/tvbusek/mncnws.m3u8
 #EXTINF:-1  tvg-id="MSNBC.us" group-title="News" tvg-logo="https://static-s.aa-cdn.net/img/ios/396885309/4ad7161a83db264f3ba4b62ef1ab662a?v=1",MSNBC (720p) [Not 24/7]
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:-1  tvg-id="NBCNewsNow.us" group-title="News" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png",NBC News Now (1080p)
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="News" tvg-logo="https://www.useetv.com/pimages/logo_nhkworldpremium_big.png",NHK Premium [UseeGO]
-http://4rr0w.my.id/tvbusek/nhkp.m3u8
 #EXTINF:-1  tvg-id="NHKWorldJapan.jp" group-title="News" tvg-logo="https://i.imgur.com/SQISXoD.jpg",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1  tvg-id="NHKWorldJapan.jp" group-title="News" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png",NHK World Japan (720p)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/sycc-live/zh/playlist.m3u8
-#EXTINF:-1  tvg-id="PhoenixInfoNewsChannel.hk" group-title="News" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/26c36bfa1b947fa65c4a9257f60cb961.png",Phoenix InfoNews Channel (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/264509
 #EXTINF:-1  tvg-id="RTNews.ru" group-title="News" tvg-logo="https://i.imgur.com/XYJEasM.png",RT News (1080p)
 https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
 #EXTINF:-1  tvg-id="SEAToday.id" group-title="News" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_336.png",SEA Today (telkom)
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 #EXTINF:-1  tvg-id="SkyNews.us" group-title="News" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Sky News (720p)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1  tvg-id="TVBSNews.tw" group-title="News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",TVBS News (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285306
 #EXTINF:-1  tvg-id="YahooFinance.us" group-title="News" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/602ab939db63ed4c92785303",Yahoo! Finance (1080p)
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-id="YahooNews.us" group-title="News" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/7ce28da0-de21-11e9-8ef3-b3d0b3dcfb8b",Yahoo! News (720p)
 https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
-#EXTINF:-1  tvg-id="ZeeNews.in" group-title="News" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",Zee News ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157583
 #EXTINF:-1  tvg-id="AstroArena.my" group-title="Sports" tvg-logo="http://mantul.biz.id:8888/images/cd92a37453a1b7066f26720166c7419b.png",Astro Arena
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157485
 #EXTINF:-1  tvg-id="AstroCricket.my" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png",Astro Cricket MY (720p)
@@ -419,8 +267,6 @@ http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=pe
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6711
 #EXTINF:-1  tvg-id="AstroSuperSport4.my" group-title="Sports" tvg-logo="http://mantul.biz.id:8888/images/a1cc482e785e14c8583e6ebb52163a43.png",Astro SuperSport 4
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6712
-#EXTINF:-1  tvg-id="AstroSuperSport5.my" group-title="Sports" tvg-logo="http://mantul.biz.id:8888/images/2fe0db8bd2754fa42731b3163932b9ca.png",Astro SuperSport 5
-http://mantul.biz.id:8888/iptvtreemy/h5DrXMJUep2021/6274
 #EXTINF:-1  tvg-id="BeInSports1Indonesia.qa" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/05890500-0632-11ec-9b2a-5fa5449ad866_webp_original.png",BeIn Sports 1
 https://etus.link/bein1?shareext.m3u8
 #EXTINF:-1  tvg-id="BeInSports2Indonesia.qa" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2021/08/26/058a6490-0632-11ec-885d-5f2801027c4d_webp_original.png",BeIn Sports 2
@@ -431,8 +277,6 @@ http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=pe
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6611
 #EXTINF:-1  tvg-id="BTSport3.uk" group-title="Sports" tvg-logo="https://3.bp.blogspot.com/-7arl-HGiGeE/Ww__Oo_fvLI/AAAAAAAAGAk/44n5OBLFupYaGopEqwgHB2GK3Ly0Hr53gCLcBGAs/s1600/download%2B%25284%2529.png",BT Sport 3 (1080p)
 http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6612
-#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://pbs.twimg.com/profile_images/1231086217493565440/NyTEplb-_400x400.png",BT Sport ESPN (1080p)
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6613
 #EXTINF:-1  tvg-id="CCTV5.cn" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5体育 (1080p)
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV1.id" group-title="Sports" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 1
@@ -443,74 +287,18 @@ https://lnk.ec/JuaraTV2?shareext.m3u8
 https://lnk.ec/JuaraTV3?shareext.m3u8
 #EXTINF:-1  tvg-id="DubaiRacing.ae" group-title="Sports" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="DubaiRacing2.ae" group-title="Sports" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",Dubai Racing 2 (1080p)
-https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
-#EXTINF:-1  tvg-id="EggNetwork.my" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/4ffb0c9edc5497748d07145b50118c10.png",Egg Network
-http://4rr0w.my.id/tvbusek/eg.m3u8
-#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="https://cdn.mitvstatic.com/channels/br_espn-2_m.png",ESPN
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16265.m3u8
-#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="https://cdn.tvpassport.com/image/station/100x100/espn2.png",ESPN 2
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16267.m3u8
-#EXTINF:-1  tvg-id="Eurosport1.fr" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f3f4f665e53b049fb81a2f995a102f10.png",Eurosport 1 (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/158353
-#EXTINF:-1  tvg-id="FightSports.us" group-title="Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FIGHT Sports ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157606
-#EXTINF:-1  tvg-id="FoxSports1.us" group-title="Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",FOX Sports 1 ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/162517
-#EXTINF:-1  tvg-id="FoxSports1.us" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a68b854b9fbd31e33df660a21b00ff5c.png",Fox Sports 1(720p) MY
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6793
-#EXTINF:-1  tvg-id="FoxSports2.us" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png",Fox Sports 2 (720p) MY
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6791
-#EXTINF:-1  tvg-id="FoxSports3.my" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/63a31686247f16dbfafde01251527864.png",Fox Sports 3 (720p) MY
-http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=penang021&password=penang021&stream=6792
 #EXTINF:-1  tvg-id="FreeSports.uk" group-title="Sports" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg",FreeSports (1080p) [Not 24/7]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1  tvg-id="GinxeSportsTVInternational.uk" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6e7c6fadf459f065ebbe6dbb393b9581.png",Ginx eSports TV (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/174698
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.useetv.com/pimages/logo_golf_big1.png",Golf Channel [UseeGO]
-http://4rr0w.my.id/tvbusek/gfp.m3u8
-#EXTINF:-1  tvg-id="N/A" group-title="Sports" tvg-logo="https://www.useetv.com/pimages/logo_horizonsport_big.png",Horizon Sport [UseeGO]
-http://4rr0w.my.id/tvbusek/hrzsp.m3u8
-#EXTINF:-1  tvg-id="MNCSports.id" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png",MNC Sports ID
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157589
-#EXTINF:-1  tvg-id="NBATV.us" group-title="Sports" tvg-logo="http://fanc.tmsimg.com/assets/s45526_ll_h3_ab.png",NBA TV (720p)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16158.ts
-#EXTINF:-1  tvg-id="NBATVCanada.us" group-title="Sports" tvg-logo="http://fanc.tmsimg.com/assets/s53242_ll_h3_ab.png",NBA TV Canada (720p)
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/64075.ts
-#EXTINF:-1  tvg-id="NBCSN.us" group-title="Sports" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/15952/s15952_h3_aa.png",NBCSN
-http://emtv1.xyz:80/NeHosting/rrty53gwty6422/16162.m3u8
-#EXTINF:-1  tvg-id="RugbypassTV.my" group-title="Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/5ec06e53f646e04c8f2e868d9e696ef7.png",RugbyPass TV (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/157564
 #EXTINF:-1  tvg-id="SkyRacing1.au" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1 (720p)
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1.m3u8
 #EXTINF:-1  tvg-id="SkyRacing2.au" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2 (720p)
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2.m3u8
-#EXTINF:-1  tvg-id="SkySportsAction.uk" group-title="Sports" tvg-logo="https://i.postimg.cc/vDF0VXrf/Skysport-shareext.png",Sky Sports Action
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zpHrr9tYKX1Bn-50mjswBTN/ts
-#EXTINF:-1  tvg-id="SkySportsArena.uk" group-title="Sports" tvg-logo="https://i.postimg.cc/vDF0VXrf/Skysport-shareext.png",Sky Sports Arena
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zrAtXDUFzD7XGvmoZTryO0w/ts
-#EXTINF:-1  tvg-id="SkySportsBoxOffice.uk" group-title="Sports" tvg-logo="https://i.postimg.cc/vDF0VXrf/Skysport-shareext.png",Sky Sports Box Office
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOp7O5-nHFo1K7FouKepHYTtRlpnWTWCA_Xjkodt9Rx0b/ts
 #EXTINF:-1  tvg-id="SkySportsCricket.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cricket.png",Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1  tvg-id="SkySportsF1.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skysportsf1hd.png",Sky Sports F1
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zrQ65q5-h5OluURpzUA_Vfd/ts
-#EXTINF:-1  tvg-id="SkySportsFootballUK.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/football.png",Sky Sports Football UK
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zo711g_bP0tRrRF2xF1CqX8/ts
-#EXTINF:-1  tvg-id="SkySportsGolfUK.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skysportsgolf.png",Sky Sports Golf UK
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zptiTUq0bBuILE_QlFjUsN4/ts
-#EXTINF:-1  tvg-id="SkySportsMainEventUK.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/mainevent.png",Sky Sports Main Event UK
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOqZE8yhMQWIqI9vvFnfmHTNks3njPT1ANfORwOzh4EfW/ts
-#EXTINF:-1  tvg-id="SkySportsMix.uk" group-title="Sports" tvg-logo="https://i.postimg.cc/vDF0VXrf/Skysport-shareext.png",Sky Sports Mix
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zrBQcnBcG1-kN4DooWOqEva/ts
 #EXTINF:-1  tvg-id="SkySportsNewsUK.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/skysportsnewshd.png",Sky Sports News UK
 http://93.152.174.144:4000/play/ssports1/index.m3u8
 #EXTINF:-1  tvg-id="SkySportsNFL.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/cricket.png",Sky Sports NFL
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1  tvg-id="SkySportsPremierLeagueUK.uk" group-title="Sports" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/premierleague.png",Sky Sports Premier League UK
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zokcBoyjoKwRylWUsOiJqGV/ts
-#EXTINF:-1  tvg-id="SkySportsRacing.uk" group-title="Sports" tvg-logo="https://i.postimg.cc/vDF0VXrf/Skysport-shareext.png",Sky Sports Racing
-http://gcs2.xyz:80/play/1Y7x-N2V3zxYf3_OMy4qOulcbZzOYjU-rUDBanlx_zrgR-Jxsl26zWvphfvt5Jbs/ts
 #EXTINF:-1  tvg-id="SPOTV" group-title="Sports" tvg-logo="https://www.spotv.net/images/intro/intro_logo.png",SPOTV (720p) TH
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="SpoTV2.kr" group-title="Sports" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV2 (720p) TH
@@ -547,8 +335,6 @@ https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1  tvg-id="WorldPokerTour.us" group-title="Sports" tvg-logo="https://i.imgur.com/vfIsClb.jpg",World Poker Tour (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
-#EXTINF:-1  tvg-id="WWENetworkPlus1.us" group-title="Sports" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png",WWE (720p) MY
-http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBKreT9/285307
 #EXTINF:-1  tvg-id="ABCAustraliaAsia.au" group-title="UseeGO" tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_big.png",ABC Australia [UseeGO]
 http://4rr0w.my.id/tvbusek/abcpl.m3u8
 #EXTINF:-1  tvg-id="AljazeeraEnglish.qa" group-title="UseeGO" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_big1.png",Aljazeera English [UseeGO]
