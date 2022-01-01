@@ -43,6 +43,10 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/19882
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/113890
 #EXTINF:-1  tvg-id="crimeandinvestigationnetwork.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/UK/Crimeinvestigation.png",CRIME INVESTIGATION
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/113901
+#EXTINF:-1  tvg-id="discoverychannel.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/UK/DISCOVERYHD.png",DISCOVERY CHANNEL
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12509
+#EXTINF:-1  tvg-id="discoveryhistory.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",DISCOVERY HISTORY
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12508
 #EXTINF:-1  tvg-id="discoveryscience.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",DISCOVERY SCIENCE
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/113896
 #EXTINF:-1  tvg-id="discoveryturbo.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/LATINO/DISCOVERYTURBOHD.png",DISCOVERY TURBO
@@ -59,12 +63,18 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/197584
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/197585
 #EXTINF:-1  tvg-id="lovenature.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",LOVE NATURE
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/113893
+#EXTINF:-1  tvg-id="natgeowild.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",NAT GEO WILD
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12512
+#EXTINF:-1  tvg-id="natgeo.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/UK/NATGEOHD.png",NATIONAL GEOGRAPHIC
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12513
 #EXTINF:-1  tvg-id="paramount.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",PARAMOUNT
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/197587
 #EXTINF:-1  tvg-id="skycrime.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",SKY CRIME
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/197588
 #EXTINF:-1  tvg-id="keepitcountry.uk" group-title="Documentary UK" tvg-logo="http://logo.sltv.site/logo/UK/Keep-It-Country-official-logo-GREY-min.png",SPOTLIGHT TV
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/197586
+#EXTINF:-1  tvg-id="syfy.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/UK/SYFY.png",SYFY
+http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12519
 #EXTINF:-1  tvg-id="92news.uk" group-title="Documentary UK" tvg-logo="https://logo.diamondtv.one/images/logos/UK/TRAVELCHANEL.png",TRAVEL CHANNEL 
 http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/113900
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/A&E.png",A&E Canada
@@ -349,46 +359,12 @@ https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="TVOkey.my" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/800px-SUKAN_RTM.jpg",Sukan RTM
 http://rtmlive02tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
-#EXTINF:-1  tvg-id="TruePremiere1.th" group-title="Sports" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd.png",True Premier 1
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TruePremiere2.th" group-title="Sports" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd2.png",True Premier 2
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TruePremiere3.th" group-title="Sports" tvg-logo="https://ballherehere.com/wp-content/uploads/2019/08/true-football-premier-hd3.png",True Premier 3
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TruePremiere4.th" group-title="Sports" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-premier-football-4-1821.png",True Premier 4
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TruePremiere5.th" group-title="Sports" tvg-logo="https://wacth.officebk.co/uploads/tv_image/20210312132722true-premier-football-hd-5.png",True Premier 5
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSport5.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 5 (480p Scaled) (720p) [Not 24/7]
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSport7.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png",True Sport 7 (480p Scaled) (720p) [Not 24/7]
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSportHD1.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 1 (720p) [Not 24/7]
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSportHD2.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 2 (720p) [Not 24/7]
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSportHD3.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png",True Sport HD 3 (720p) [Not 24/7]
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueSportHD4.th" group-title="Sports" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png",True Sport HD 4 (720p) [Not 24/7]
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1  tvg-id="TrueTennisHD.th" group-title="Sports" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png",True Tennis HD (720p) [Not 24/7]
-https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
 #EXTINF:-1  tvg-id="RTMTVOkey.my" group-title="Sports" tvg-logo="https://id.wikipedia.org/wiki/TV_Okey#/media/Berkas:Okey_RTM.png",TV Okey
 https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8
 #EXTINF:-1  tvg-id="WorldPokerTour.us" group-title="Sports" tvg-logo="https://i.imgur.com/vfIsClb.jpg",World Poker Tour (1080p) [Not 24/7]
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1  tvg-id="WorldPokerTour.us" group-title="Sports" tvg-logo="https://i.imgur.com/vfIsClb.jpg",World Poker Tour (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
-#EXTINF:-1  tvg-id="discoverychannel.uk" group-title="UK | HD DOCUMENTARY" tvg-logo="https://logo.diamondtv.one/images/logos/UK/DISCOVERYHD.png",UK | DISCOVERY CHANNEL
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12509
-#EXTINF:-1  tvg-id="discoveryhistory.uk" group-title="UK | HD DOCUMENTARY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",UK | DISCOVERY HISTORY
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12508
-#EXTINF:-1  tvg-id="natgeowild.uk" group-title="UK | HD DOCUMENTARY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",UK | NAT GEO WILD
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12512
-#EXTINF:-1  tvg-id="natgeo.uk" group-title="UK | HD DOCUMENTARY" tvg-logo="https://logo.diamondtv.one/images/logos/UK/NATGEOHD.png",UK | NATIONAL GEOGRAPHIC
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12513
-#EXTINF:-1  tvg-id="syfy.uk" group-title="UK | HD DOCUMENTARY" tvg-logo="https://logo.diamondtv.one/images/logos/UK/SYFY.png",UK | SYFY
-http://mag.diamondip.club:80/8qG2Erm9VDbg/X7CovkV7B8/12519
 #EXTINF:-1  tvg-id="ABCAustraliaAsia.au" group-title="UseeGO" tvg-logo="https://www.useetv.com/pimages/logo_abcaustralia_big.png",ABC Australia [UseeGO]
 http://4rr0w.my.id/tvbusek/abcpl.m3u8
 #EXTINF:-1  tvg-id="AljazeeraEnglish.qa" group-title="UseeGO" tvg-logo="https://www.useetv.com/pimages/logo_aljazeera_big1.png",Aljazeera English [UseeGO]
