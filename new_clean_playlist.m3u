@@ -592,11 +592,13 @@ http://iptv.tvmalaysia.cc:80/streaming/clients_live.php?extension=ts&username=pe
 #EXTINF:-1  tvg-id="CCTV5.cn" group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png",CCTV-5体育 (1080p)
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV1.id" group-title="Sports" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 1
-https://lnk.ec/JuaraTV1?shareext.m3u8
+http://golive.cf/vidio/live-champion1.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV2.id" group-title="Sports" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 2
-https://lnk.ec/JuaraTV2?shareext.m3u8
+http://golive.cf/vidio/live-champion2.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV3.id" group-title="Sports" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 3
-https://lnk.ec/JuaraTV3?shareext.m3u8
+http://golive.cf/vidio/live-champion3.m3u8
+#EXTINF:-1  tvg-id="ChampionsTV4.id" group-title="Sports" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 4
+http://golive.cf/vidio/live-champion4.m3u8
 #EXTINF:-1  tvg-id="DubaiRacing.ae" group-title="Sports" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
 #EXTINF:-1  tvg-id="FreeSports.uk" group-title="Sports" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg",FreeSports (1080p) [Not 24/7]
@@ -1048,11 +1050,11 @@ https://iptv.mwafa.net/vidio/6852/index.m3u8?token=1999
 #EXTINF:-1  tvg-id="BeritaSatuNewsChannel.id" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Berita Satu
 https://iptv.mwafa.net/vidio/6165/index.m3u8?token=1999
 #EXTINF:-1  tvg-id="ChampionsTV1.id" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 1
-https://lnk.ec/JuaraTV1?shareext.m3u8
+http://golive.cf/vidio/live-champion1.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV2.id" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 2
-https://lnk.ec/JuaraTV2?shareext.m3u8
+http://golive.cf/vidio/live-champion2.m3u8
 #EXTINF:-1  tvg-id="ChampionsTV3.id" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",Champions TV 3
-https://lnk.ec/JuaraTV3?shareext.m3u8
+http://golive.cf/vidio/live-champion3.m3u8
 #EXTINF:-1  tvg-id="DaAiTV.tw" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",DaAi TV
 https://iptv.mwafa.net/vidio/6482/index.m3u8?token=1999
 #EXTINF:-1  tvg-id="DWEnglish.de" group-title="Vidio" tvg-logo="https://i.postimg.cc/13VJcC8t/Video-Share-Ext-Group.jpg",DW English
