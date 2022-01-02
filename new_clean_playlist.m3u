@@ -107,8 +107,6 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/19876
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/147250
 #EXTINF:-1  tvg-id="WGNTV.us" group-title="Entertainment CA" tvg-logo="https://logo.diamondtv.one/images/logos/CANADA/WGN.png",WGN-TV
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/19870
-#EXTINF:-1  tvg-id="ChuttiTVMalaysia.in " group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Chutti TV Malaysia
-http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126227
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",8TV
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126156
 #EXTINF:-1  tvg-id="ABCAustraliaAsia.au" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",ABC AUSTRALIA
@@ -137,7 +135,7 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126172
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126178
 #EXTINF:-1  tvg-id="AstroAwani.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro Awani
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126179
-#EXTINF:-1  tvg-id="AstroBollyOneHD.my " group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro BollyOne HD
+#EXTINF:-1  tvg-id="AstroBollyOneHD.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro BollyOne HD
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126219
 #EXTINF:-1  tvg-id="AstroCeria.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro Ceria
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126180
@@ -177,7 +175,7 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126173
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126175
 #EXTINF:-1  tvg-id="AstroSuperSport3.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro SuperSport 3
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126176
-#EXTINF:-1  tvg-id="AstroSuperSport4.my " group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro SuperSport 4
+#EXTINF:-1  tvg-id="AstroSuperSport4.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro SuperSport 4
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126177
 #EXTINF:-1  tvg-id="N/A" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Astro SuperSport Plus
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126174
@@ -217,6 +215,8 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126224
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126223
 #EXTINF:-1  tvg-id="CGTN.cn" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CGTN
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126226
+#EXTINF:-1  tvg-id="ChuttiTVMalaysia.in" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Chutti TV Malaysia
+http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126227
 #EXTINF:-1  tvg-id="CinemaxAsia.us" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/ROMANIA/CINEMAXRO.png",Cinemax Asia
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126229
 #EXTINF:-1  tvg-id="CNA.sg" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",CNA
@@ -285,7 +285,7 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126270
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126268
 #EXTINF:-1  tvg-id="Kix.hk" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",KIX
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126269
-#EXTINF:-1  tvg-id="MakkalTV.in " group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Makkal TV
+#EXTINF:-1  tvg-id="MakkalTV.in" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Makkal TV
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126271
 #EXTINF:-1  tvg-id="MTVNow.my" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND/MTV.png",MTV
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126272
@@ -333,7 +333,7 @@ http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126256
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126257
 #EXTINF:-1  tvg-id="StarChineseChannel.hk" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Star Chinese Channel
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126295
-#EXTINF:-1  tvg-id="SunMusic.in " group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Sun Music
+#EXTINF:-1  tvg-id="SunMusic.in" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png",Sun Music
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126296
 #EXTINF:-1  tvg-id="TLCSoutheastAsia.us" group-title="Entertainment MY" tvg-logo="https://logo.diamondtv.one/images/logos/NEDERLAND-NEW1/TLC.png",TLC
 http://mag.diamondip.club:80/8qG2Erm9VDbg/hg1wdGHcGH/126297
@@ -601,6 +601,14 @@ http://golive.cf/vidio/live-champion3.m3u8
 http://golive.cf/vidio/live-champion4.m3u8
 #EXTINF:-1  tvg-id="DubaiRacing.ae" group-title="Sports" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubai-racing-live.png",Dubai Racing (1080p)
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="ESPN.us" group-title="Sports" tvg-logo="http://nomorecable.xyz:80/logo/chn/1316.png",ESPN
+http://nomorecable.xyz:80/hahaiptv-/079652/1316
+#EXTINF:-1  tvg-id="ESPN2.us" group-title="Sports" tvg-logo="http://nomorecable.xyz:80/logo/chn/1317.png",ESPN 2
+http://nomorecable.xyz:80/hahaiptv-/079652/1317
+#EXTINF:-1  tvg-id="ESPN3Nederland.us" group-title="Sports" tvg-logo="http://nomorecable.xyz:80/logo/chn/1318.png",ESPN 3
+http://nomorecable.xyz:80/hahaiptv-/079652/1318
+#EXTINF:-1  tvg-id="ESPN4Nederland.us" group-title="Sports" tvg-logo="http://nomorecable.xyz:80/logo/chn/1319.png",ESPN 4
+http://nomorecable.xyz:80/hahaiptv-/079652/1319
 #EXTINF:-1  tvg-id="FreeSports.uk" group-title="Sports" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg",FreeSports (1080p) [Not 24/7]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1  tvg-id="SkyRacing1.au" group-title="Sports" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1 (720p)
