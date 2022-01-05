@@ -418,7 +418,7 @@ http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1  tvg-id="TV5MondeEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/mwHtXya.jpg",TV5 Monde Europe (1080p)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
 #EXTINF:-1  tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
-Link
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1  tvg-id="BeritaSatuHD.id" group-title="Indonesia" tvg-logo="",Berita Satu HD
 Link
 #EXTINF:-1  tvg-id="GTV.id" group-title="Indonesia" tvg-logo="",GTV
