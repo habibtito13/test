@@ -417,6 +417,46 @@ https://tastemade-freetv16min-plex.amagi.tv/hls/amagi_hls_data_tastemade-tastema
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
 #EXTINF:-1  tvg-id="TV5MondeEurope.fr" group-title="General" tvg-logo="https://i.imgur.com/mwHtXya.jpg",TV5 Monde Europe (1080p)
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/master.m3u8
+#EXTINF:-1  tvg-id="ANTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png",ANTV
+Link
+#EXTINF:-1  tvg-id="BeritaSatuHD.id" group-title="Indonesia" tvg-logo="",Berita Satu HD
+Link
+#EXTINF:-1  tvg-id="GTV.id" group-title="Indonesia" tvg-logo="",GTV
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
+#EXTINF:-1  tvg-id="IDXChannel.id" group-title="Indonesia" tvg-logo="",IDX Channel
+Link
+#EXTINF:-1  tvg-id="Indosiar.id" group-title="Indonesia" tvg-logo="",Indosiar
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=indosiar&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="INews.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",INews
+https://goldenlivektv.com/Live_TV/Channel_Inews.m3u8
+#EXTINF:-1  tvg-id="JakTV.id" group-title="Indonesia" tvg-logo="",Jak TV
+Link
+#EXTINF:-1  tvg-id="KompasTV.id" group-title="Indonesia" tvg-logo="",Kompas TV
+Link
+#EXTINF:-1  tvg-id="Life.id" group-title="Indonesia" tvg-logo="",Life
+Link
+#EXTINF:-1  tvg-id="MetroTV.id" group-title="Indonesia" tvg-logo="",Metro TV
+Link
+#EXTINF:-1  tvg-id="MNCTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNC TV
+https://goldenlivektv.com/Live_TV/Channel_Mnctv.m3u8
+#EXTINF:-1  tvg-id="NET.id" group-title="Indonesia" tvg-logo="",NET
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=net&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="OChannel.id" group-title="Indonesia" tvg-logo="",O Channel
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=ochannel&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="RCTI.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png",RCTI
+http://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
+#EXTINF:-1  tvg-id="SCTV.id" group-title="Indonesia" tvg-logo="",SCTV
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=sctv&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="SEAToday.id" group-title="Indonesia" tvg-logo="",SEA Today
+Link
+#EXTINF:-1  tvg-id="Trans7.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png",Trans 7
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=trans7&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="TransTV.id" group-title="Indonesia" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png",Trans TV
+http://goldenlivektv.com/vidio/Khoerul_Television.m3u8?id=transtv&goodbye=Khoerul_Television=0
+#EXTINF:-1  tvg-id="TVOne.id" group-title="Indonesia" tvg-logo="",TVOne
+Link
+#EXTINF:-1  tvg-id="TVRINasional.id" group-title="Indonesia" tvg-logo="",TVRI Nasional
+Link
 #EXTINF:-1  tvg-id="AljazeeraEnglish.qa" group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/6b5c24b51f9610a805f03c93ecff9d5b.jpg",Al-Jazzera HD
 http://iptv.tvmalaysia.cc:80/penang175/penang175/6694
 #EXTINF:-1  tvg-id="AstroAOD351.my" group-title="LIVE | ASTRO" tvg-logo="http://tvmalaysia.cc:80/images/266ce75d12de3edfb41bf0fb38d44e61.png",ASTRO AOD 351 HD
