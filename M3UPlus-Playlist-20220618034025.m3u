@@ -1,0 +1,3 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="motpgp" tvg-logo="" group-title="test",motpgp
+https://s2.strea.ru/index.m3u8
