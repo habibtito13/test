@@ -1,16 +1,22 @@
 #EXTM3U url-tvg=""
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sp0tv primary" tvg-logo="" group-title="test",spt
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="spotv2 primary" tvg-logo="" group-title="test",spotv2
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sp0tv2 primary" tvg-logo="" group-title="test",spt2
 https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="horizonsport" tvg-logo="" group-title="test",horizonsport
 https://cdn.mapalus.xyz/empede/uss-premi/horizonsport/manifest.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="spotv" tvg-logo="" group-title="test",spotv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sp0tv" tvg-logo="" group-title="test",spt
 https://cdn.mapalus.xyz/empede/uss-premi/spotv/manifest.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="spotv2" tvg-logo="" group-title="test",spotv2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="sp0tv2" tvg-logo="" group-title="test",spt2
 https://cdn.mapalus.xyz/empede/uss-premi/spotv2/manifest.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="bt sport 2" tvg-logo="" group-title="test",btsport2
