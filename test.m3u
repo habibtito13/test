@@ -646,8 +646,11 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 
 
 
-#EXTINF:-1  tvg-id="Andflix.in" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851",&flix
+#EXTINF:-1  tvg-id="Andflix.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/pEYSyNG.png",&flix
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1  tvg-id="AndpriveHD.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/qyyUlg3.png",&prive HD
+http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/49557.m3u8
 
 #EXTINF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767",AMC
 https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
