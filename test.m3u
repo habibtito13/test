@@ -385,7 +385,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://cdn.ksa.my.id/seatoday.png" group-title="ENTERTAINMENT & KNOWLEDGE",SEA TODAY
+#EXTINF:0 tvg-id="SEAToday.Id" tvg-logo="https://cdn.ksa.my.id/seatoday.png" group-title="ENTERTAINMENT & KNOWLEDGE",SEA Today
 https://anv-livechannel-cdn.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -646,8 +646,11 @@ http://www.goldentv.tech:25461/Nopri/Nopri/26116
 
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://i.imgur.com/pEYSyNG.png",ACTION MOVIES
+#EXTINF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:0 tvg-id="Andflix.in" tvg-name="" tvg-logo="https://i.imgur.com/pEYSyNG.png" group-title="MOVIES",&flix 
+https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
 
 #EXTINF:-1  tvg-id="AndpriveHD.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/qyyUlg3.png",&prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -1189,9 +1192,6 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-id="RT.ru" group-title="NEWS" tvg-logo="https://i.ibb.co/Fm2BmNL/RT-PPI-IP-TV.png",RT English
 https://anevia114.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
-
-#EXTINF:-1  tvg-id="SEAToday.id" group-title="NEWS" tvg-logo="https://www.useetv.com/pimages/logo_seatoday_big.png?v=1",SEA Today
-https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
 
 #EXTINF:-1  tvg-id="TopNews.th" group-title="NEWS" tvg-logo="https://th.bing.com/th/id/OIP.bWMDAEIZWtLM0ZM33qG-VQHaEK?pid=ImgDet&rs=1",TOP News TH
 http://61.19.242.134/feed/202105171329/chtopnews/index.m3u8
