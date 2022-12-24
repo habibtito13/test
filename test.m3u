@@ -285,8 +285,11 @@ http://210.210.155.35/x6bnqe/s/s38/index.m3u8
 #EXTINF:-1  tvg-id="DiscoveryChannelIndonesia.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://www.useetv.com/pimages/logo_discovery_big.png?v=1",Discovery Channel
 https://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
-#EXTINF:-1 tvg-id="DiscoveryScienceCanada.ca" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScienceCanada.ca" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science CA
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/295051.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science UK
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/101016
 
 
 #EXTINF:-1  tvg-id="DrFit.bg" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr. Fit HD
@@ -832,6 +835,15 @@ https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1  tvg-id="MovieSphere.us" group-title="MOVIES" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
+#EXTINF:-1  tvg-id="MoviesNowPlus.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/IrnCmFK.png",MN+
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93657
+
+#EXTINF:-1  tvg-id="MNX.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/qFSiRHF.png",MNX
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93658
+
+#EXTINF:-1  tvg-id="MoviesNow.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/VQn0KBe.png",Movies Now
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93659
+
 #EXTINF:-1  tvg-id="MyCinema.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinema_small.png",My Cinema
 http://210.210.155.35/uq2663/h/h192/index.m3u8
 
@@ -875,11 +887,16 @@ http://203.77.246.50:5000/udp/239.1.1.74:5000
 
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/512px-STAR_Movies_logo.svg.png" group-title="MOVIES",Star Movies
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93668
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-logo="https://i.imgur.com/iW9tmOe.png" group-title="MOVIES",Star Movies Select
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93669
 http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
+
+#EXTINF:-1 tvg-id="StarWorldIndia.in" tvg-logo="https://i.imgur.com/iW9tmOe.png" group-title="MOVIES",Star World
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93670
 
 #EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/4e7fba8288cf6f11b5d2027eb642d3c3.png" group-title="MOVIES",Sony Pix
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/49539.m3u8
