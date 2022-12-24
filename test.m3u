@@ -507,7 +507,7 @@ https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #EXTINF:-1 tvg-id="OChannel.id" group-title="Lokal" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji O Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://tv.zonanime.my.id/vidio/ochannel.m3u8
+http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
 #EXTINF:-1  tvg-id="NET.id" group-title="Lokal" tvg-logo="https://i.imgur.com/fChjylx.png",NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -655,7 +655,7 @@ http://www.goldentv.tech:25461/Nopri/Nopri/26116
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
 #EXTINF:0 tvg-id="Andflix.in" tvg-name="" tvg-logo="https://i.imgur.com/pEYSyNG.png" group-title="MOVIES",&flix 
-https://tvkitaproject.my.id/zee/index.php?c=0-9-channel_2105335046
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93643
 
 #EXTINF:-1  tvg-id="AndpriveHD.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/qyyUlg3.png",&prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
