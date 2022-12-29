@@ -240,7 +240,7 @@ https://7eeb2be418cc4f6fa4b292ab44176623.mediatailor.us-east-1.amazonaws.com/v1/
 https://800abe2fa2ea4e6493cb0e68360fa45d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_BBCHome/playlist.m3u8
 
 #EXTINF:-1  tvg-id="BBCLifestyleAsia.uk" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/eAX6mWJ.jpg",BBC Lifestyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Chrome/81.0.4044.138 Safari/537.36
 https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -364,7 +364,7 @@ https://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
 https://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
 #EXTINF:-1  tvg-id="OutdoorChannelInternational.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/PDqieRh.png",Outdoor Channel International
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Chrome/81.0.4044.138 Safari/537.36
 https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-id="PlanetEarth.bg" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",Planet Earth HD
@@ -460,10 +460,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1  tvg-id="GarudaTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/s3HCVrO.png",Garuda TV
 https://ms.digdaya.tv/live/digdayatv/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV+
+#EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="LOKAL",GTV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d-gtv.rctiplus.id/GTV2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d-gtv.rctiplus.id/GTV2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1  tvg-id="GTV.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV V+ 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -491,10 +491,10 @@ https://k.ksa.my.id/ksa.m3u8?a=33cbc98636ea6b2b4a28&b=a457cd239f7e72b12c6d&c=fe2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/25668
 
-#EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="National TV",iNewsTV+
+#EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="LOKAL",iNewsTV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1  tvg-id="INews.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews Vision+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -525,10 +525,10 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w754412833_b3884000_s
 #EXTINF:-1 tvg-id="MetroTV.Id" tvg-logo="https://cdn.ksa.my.id/metrotv.png" group-title="LOKAL",Metro TV Vision+
 https://anv-livechannel-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV+
+#EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="LOKAL",MNCTV+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1  tvg-id="MNCTV.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNCTV V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -571,10 +571,10 @@ https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1  tvg-id="NusantaraTV.id" group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
+#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="LOKAL",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
-https://h-rcti.rctiplus.id/RCTI2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://h-rcti.rctiplus.id/RCTI2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 
 #EXTINF:-1  tvg-id="RCTI.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI V+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -733,6 +733,9 @@ http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/49557.m3u8
 #EXTss INF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974462_ico.png?ts=1655149767",AMC
 # https://bcovlive-a.akamaihd.net/ebf15ff84e98490e8b00209ed77c77f5/us-east-1/6240731308001/playlist.m3u8
 
+#EXTINF:-1 tvg-id="AMCEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png" group-title="MOVIES",AMC East
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="AnhuiTV.cn" group-title="MOVIES" tvg-logo="http://dusktill.masuk.web.id/img/anhuitv.png",Anhui TV
@@ -795,7 +798,7 @@ https://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
 https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 #EXTINF:-1  tvg-id="ColorsInfinity.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/ahdRV9p.png",Colors Infinity
-http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93657
+http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93649
 
 #EXTINF:-1  tvg-id="ComedyCentralIndia.in" group-title="MOVIES" tvg-logo="https://i.imgur.com/g0caQa2.png",Comedy Central
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93650
@@ -1181,7 +1184,7 @@ https://anevia114.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.com
 
 #EXTINF:-1  tvg-id="VNews.vn" group-title="NEWS" tvg-logo="https://mytv.com.vn/upload/channel/133.png",VNews VN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Chrome/81.0.4044.138 Safari/537.36 Edge/12.246
 https://livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1  tvg-id="YahooFinance.us" group-title="NEWS" tvg-logo="N/A",Yahoo! Finance
@@ -1199,21 +1202,26 @@ https://yahoo-roku-us.amagi.tv/playlist.m3u8
 http://www.goldentv.tech:25461/Nopri/Nopri/39602
 
 #EXTINF:-1  tvg-id="AstroArena2.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/meHW06l.png",Astro Arena 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/39612
 
-#EXTINF:-1  tvg-id="AstroCricket.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/DhbmBsD.png",Astro Cricket
-https://go.restream.fun:443/iptvmantap/iptvmantap/146
+# #EXTINF:-1  tvg-id="AstroCricket.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/DhbmBsD.png",Astro Cricket
+# https://go.restream.fun:443/iptvmantap/iptvmantap/146
 
 #EXTINF:-1  tvg-id="AstroSuperSport.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/X2WVnWr.png",Astro Supersport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/25010
 
 #EXTINF:-1  tvg-id="AstroSuperSport2.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/AZQ0xgp.png",Astro Supersport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/25011
 
 #EXTINF:-1  tvg-id="AstroSuperSport3.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/cMYSM6e.png",Astro Supersport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/25012
 
 #EXTINF:-1  tvg-id="AstroSuperSport4.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/PlwrDwx.png",Astro Supersport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://www.goldentv.tech:25461/Nopri/Nopri/25015
 
 # #EXTINF:-1  tvg-id="AstroSuperSport5.my" group-title="SPORTS PLUS" tvg-logo="https://i.imgur.com/FieopQP.png",Astro Supersport 5
@@ -1229,14 +1237,14 @@ https://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 
-#EXTINF:-1  tvg-id="ChampionsTV1.id" group-title="SPORTS PLUS" tvg-logo="https://i.ibb.co/KDv3FGf/Champions-TV-1-HD-2021.png",Champions TV 1 HD
-http://tv.zonanime.my.id/vidio/championstv1.m3u8
+# #EXTINF:-1  tvg-id="ChampionsTV1.id" group-title="SPORTS PLUS" tvg-logo="https://i.ibb.co/KDv3FGf/Champions-TV-1-HD-2021.png",Champions TV 1 HD
+# http://tv.zonanime.my.id/vidio/championstv1.m3u8
 
-#EXTINF:-1  tvg-id="ChampionsTV2.id" group-title="SPORTS PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png",Champions TV 2 HD
-http://tv.zonanime.my.id/vidio/championstv2.m3u8
+# #EXTINF:-1  tvg-id="ChampionsTV2.id" group-title="SPORTS PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Champions_TV_2_%282021%29.png",Champions TV 2 HD
+# http://tv.zonanime.my.id/vidio/championstv2.m3u8
 
-#EXTINF:-1  tvg-id="ChampionsTV3.id" group-title="SPORTS PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png",Champions TV 3 HD
-http://tv.zonanime.my.id/vidio/championstv3.m3u8
+# #EXTINF:-1  tvg-id="ChampionsTV3.id" group-title="SPORTS PLUS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/Champions-3-750x510.png",Champions TV 3 HD
+# http://tv.zonanime.my.id/vidio/championstv3.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
