@@ -923,7 +923,7 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
 #EXTINF:-1  tvg-id="LifetimeMoviesEast.us" group-title="MOVIES" tvg-logo="https://zap2it.tmsimg.com/h4/NowShowing/18480/s18480_h4_aa.png",Lifetime Movies
-https://tinyurl.com/MovieSphere
+http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/12992
 
 #EXTINF:-1  tvg-id="MovieSphere.uk" group-title="MOVIES" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere UK
 https://tinyurl.com/MovieSphere
