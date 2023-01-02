@@ -922,6 +922,9 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
 #EXTINF:-1  tvg-id="KIX.hk" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_kix_big.png?v=1",KIX
 https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
+#EXTINF:-1  tvg-id="LifetimeMoviesEast.us" group-title="MOVIES" tvg-logo="https://zap2it.tmsimg.com/h4/NowShowing/18480/s18480_h4_aa.png",Lifetime Movies
+https://tinyurl.com/MovieSphere
+
 #EXTINF:-1  tvg-id="MovieSphere.uk" group-title="MOVIES" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere UK
 https://tinyurl.com/MovieSphere
 
