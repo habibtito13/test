@@ -289,9 +289,8 @@ https://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 #EXTINF:-1 tvg-id="DiscoveryScienceCanada.ca" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295051
 
-#EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science UK
-http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/101016
-
+# #EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science UK
+# http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/101016
 
 #EXTINF:-1  tvg-id="DrFit.bg" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr. Fit HD
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
@@ -978,8 +977,8 @@ http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1  tvg-id="ROCKExtreme.sg" group-title="MOVIES" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
 http://210.210.155.35/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1  tvg-id="Showcase.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/2hfs6h79",SHOWCASE CA
-http://203.77.246.50:5000/udp/239.1.1.74:5000
+#EXTINF:-1  tvg-id="Showcase.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/2hfs6h79",SHOWCASE
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9210
 
 #EXTINF:-1  tvg-id="SinemaIndonesia.id" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21969550_ico.png?ts=1660770673",Sinema Indonesia
 http://203.77.246.50:5000/udp/239.1.1.74:5000
