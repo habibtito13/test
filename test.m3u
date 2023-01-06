@@ -444,7 +444,7 @@ https://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="BeritaSatu.id" group-title="LOKAL" tvg-logo="https://cdn.kibrispdr.org/data/antv-logo-png-22.png",Berita Satu
+#EXTINF:-1  tvg-id="BeritaSatu.id" group-title="LOKAL" tvg-logo="https://tinyurl.com/mw25uynx",Berita Satu
 https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -475,14 +475,6 @@ https://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1  tvg-id="IDXChannel.id" group-title="LOKAL" tvg-logo="https://images.useetv.com/logo_idx_big.png",IDX Channel
 https://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
-
-#EXTINF:-1  tvg-id="Indosiar.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://anon.devds.site/link.php?hash=aHR0cHM6Ly9pbGlrZS5zcXVkaW5jLndvcmtlcnMuZGV2L3BsYXkubTN1OD9pZD0yMDUma2V5PXZpZGlvJnR5cGU9aGxz
-
-#EXTINF:-1  tvg-id="Indosiar.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",Indosiar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/22975
 
 #EXTINF:-1  tvg-id="Indosiar.id" group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -556,7 +548,7 @@ https://anevia114.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainme
 #EXTINF:-1  tvg-id="Ie.id" group-title="LOKAL" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",MNC Infotainment
 https://anevia114.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
-#EXTINF:-1 tvg-id="OChannel.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji O Channel
+#EXTINF:-1 tvg-id="OChannel.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://210.210.155.35/qwr9ew/s/s41/01.m3u8
 
@@ -571,6 +563,11 @@ https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1  tvg-id="NusantaraTV.id" group-title="LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nusantaratv_small.png?v=1.1",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1  tvg-id="OKTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/IrS5AOC.png",OK TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
+https://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="LOKAL",RCTI+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -590,10 +587,6 @@ http://www.goldentv.tech:25461/Nopri/Nopri/25764
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
-
-#EXTINF:-1  tvg-id="SCTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://anon.devds.site/link.php?hash=aHR0cHM6Ly9pbGlrZS5zcXVkaW5jLndvcmtlcnMuZGV2L3BsYXkubTN1OD9pZD0yMDQma2V5PXZpZGlvJnR5cGU9aGxz
 
 #EXTINF:-1  tvg-id="SCTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -639,6 +632,64 @@ https://anevia114.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
 https://anevia114.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+
+
+
+=============LOKAL HEVC===============
+
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="ANTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/sDmXVSm.png",ANTV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURNA8e1uIeFxuUQXyPVJIBo
+#EXTINF:-1 tvg-id="BNTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/GGUTl42.png",BN Channel
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUHpnkn2HnNi6iqb3GKZryU
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" group-title="LOKAL HEVC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png",CNBC Indonesia
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcmHrulmp4V9AZaU2pOwlSk
+#EXTINF:-1 tvg-id="CNNIndonesia.id" group-title="LOKAL HEVC" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUSSVqzs1QszXb5iqO-H8Guk
+#EXTINF:-1 tvg-id="GTV.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1000px-GTV_%282017%29.svg.png",GTV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUsvHgb9MInqgzmSdYsTbCs
+#EXTINF:-1 tvg-id="Indosiar.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/512px-Indosiar_2015.svg.png",Indosiar
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUZTLZ0cUFUXPlNyoaB7k09Q
+#EXTINF:-1 tvg-id="INews.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/sojdCIg.png",iNews
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcngfizmHPFW6vceGGnzPBE
+#EXTINF:-1 tvg-id="KompasTV.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/KOMPAS_TV_%282017%29.png",Kompas TV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUcd8ptiBnsXa697b1dEU9Io
+#EXTINF:-1 tvg-id="MagnaChannel.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",Magna TV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbAp26iQiLuAddfk9eZNIHk
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="LOKAL HEVC" tvg-logo="https://www.interindo.com/assets/img/MetroTV_Logo_2010.png",Metro TV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUVwz1NZQ567p5EYzISbJJpc
+#EXTINF:-1 tvg-id="MNCTV.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/MNCTV_logo_2015.svg/1600px-MNCTV_logo_2015.svg.png",MNC
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUeesS8f8vIWC5sM-T1RxMfs
+#EXTINF:-1 tvg-id="OChannel.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/D70rSkE.png",Moji
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUQyhXNEAeLS0FJX01xbRrw8
+#EXTINF:-1 tvg-id="NET.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/fChjylx.png",NET.
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUZy34ahx2y4BIXnsv16rxE
+#EXTINF:-1 tvg-id="RCTI.id" group-title="LOKAL HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/dd/RCTI_logo_2015.svg/1280px-RCTI_logo_2015.svg.png",RCTI
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUgM3fntbbeXP-IHCpzDtLs
+#EXTINF:-1 tvg-id="RTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/Q3MDKtZ.png",RTV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUUZR2lf8_SyZxuaYEiVRLGY
+#EXTINF:-1 tvg-id="SCTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/EMmOvnQ.png",SCTV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURIrYqU0eqhx6XA7SaYhZyE
+#EXTINF:-1 tvg-id="Trans7.id" group-title="LOKAL HEVC" tvg-logo="https://i.ibb.co/WV4PMGf/trans7-lean-paps.png",Trans 7
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUYyPKxp3_e4Def9g4FpP0Ko
+#EXTINF:-1 tvg-id="TransTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.ibb.co/k59XL0b/transtv-lean-paps.png",Trans TV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbpbqd53inPofLmt_oiOqqc
+#EXTINF:-1 tvg-id="tvOne.id" group-title="LOKAL HEVC" tvg-logo="https://i.postimg.cc/3x6vDjZT/tv-one.png",TV One
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUaYD6BaBFJamI9Phsz0aBYI
+#EXTINF:-1 tvg-id="TVRINasional.id" group-title="LOKAL HEVC" tvg-logo="https://e7.pngegg.com/pngimages/107/247/png-clipart-tvri-jambi-television-tvone-logo-tvri-jambi-blue-text.png",TVRI
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUbRAliIlrJPBSl4Tjwccfr0
+#EXTINF:-1 tvg-id="BeritaSatu.id" group-title="LOKAL HEVC" tvg-logo="https://tinyurl.com/mw25uynx",Berita Satu
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURyC-JmzcnL5Lx4fY6vgMEU
+#EXTINF:-1 tvg-id="" group-title="LOKAL HEVC" tvg-logo="https://cdn.ksa.my.id/mgn.png",Metro Globe Network
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUYeUXRH_LxR4WXPTP7DsphM
+#EXTINF:-1 tvg-id="VisionPrime.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/2ZuDqYL.png",Vision Prime
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUXNMWiKHFLwpSC2bv76B1H4
+#EXTINF:-1 tvg-id="OKTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/IrS5AOC.png",OKTV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fURKhx3b0CTWvh1B0cPMCr6U
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="LOKAL HEVC" tvg-logo="https://i.imgur.com/QkTgy1M.png",Mentari TV
+https://iptv.lancartech.co.id:443/play/F5Sj12IsVDs3QP8aqT3fUegpgpd3BASonyUy0001hqc
 
 
 
@@ -747,7 +798,7 @@ https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/62407
 https://anevia114.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 #EXT  INF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20573464_ico.png?ts=1654809632",ATV
-http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
+# http://bravo.kugo.id:1935/atv/udp.stream_360p/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -821,9 +872,9 @@ http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418452
 # #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 # http://tvn.x10.mx/playlist/master-2.m3u8
 
-#EXT  INF:-1  tvg-id="CitraDrama.id" group-title="MOVIES" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TsewQEq0lm4dgqMP2wgn1-B36c4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-# #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-# http://tvn.x10.mx/playlist/master-3.m3u8
+#EXTINF:-1  tvg-id="CitraDrama.id" group-title="MOVIES" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TsewQEq0lm4dgqMP2wgn1-B36c4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://www.goldentv.tech:25461/Nopri/Nopri/23423
 
 # #EXT  INF:-1  tvg-id="CitraEntertainment.id" group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/Yg0BipGem9vJ1HU_M2nta2S1fgE=/372x211/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg",Citra Entertainment
 # #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -924,9 +975,6 @@ https://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 #EXTINF:-1  tvg-id="LifetimeMoviesEast.us" group-title="MOVIES" tvg-logo="https://zap2it.tmsimg.com/h4/NowShowing/18480/s18480_h4_aa.png",Lifetime Movies
 http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/12992
 
-#EXTINF:-1  tvg-id="MovieSphere.uk" group-title="MOVIES" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere UK
-https://tinyurl.com/MovieSphere
-
 #EXTINF:-1  tvg-id="MovieSphere.us" group-title="MOVIES" tvg-logo="https://i.imgur.com/h1ejU90.png",MovieSphere US
 https://moviesphere-plex.amagi.tv/playlist.m3u8
 
@@ -950,11 +998,6 @@ http://210.210.155.35/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1  tvg-id="MyFamily.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1",My Family Channel
 http://210.210.155.35/uq2663/h/h194/index.m3u8
-
-#EXTINF:-1  tvg-id="OKTV.id" group-title="MOVIES" tvg-logo="https://i.imgur.com/IrS5AOC.png",OK TV
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjhkOWZkZjYtOGViOC0zNTkzLWFhOWEtNGFhMzJkMDk3NGE2
-https://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #EXTINF:-1  tvg-id="OneTVAsia.sg" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857",ONE
 http://210.210.155.37/uq2663/h/h143/index.m3u8?fluxustv.m3u8
@@ -986,12 +1029,10 @@ http://203.77.246.50:5000/udp/239.1.1.74:5000
 #EXTINF:-1 tvg-id="StarMoviesIndia.in" tvg-logo="https://tinyurl.com/mr3scysu" group-title="MOVIES",Star Movies
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93668
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155727
 
 #EXTINF:-1 tvg-id="StarMoviesSelect.in" tvg-logo="https://i.imgur.com/iW9tmOe.png" group-title="MOVIES",Star Movies Select
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93669
-http://line.premiumpowers.net:80/b6126cb61b/8021f2d210/155729
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce17264b317db108f19cdc11aa1a9e66:a21188aee8fc5c56d016fcffcc6b2295
