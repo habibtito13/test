@@ -971,7 +971,7 @@ http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="ROCKExtreme.sg" group-title="MOVIES" tvg-logo="https://i.ibb.co/5hHTJPQ/20221211230555493f2h.png",Rock Action
+#EXTINF:-1  tvg-id="ROCKAction.sg" group-title="MOVIES" tvg-logo="https://i.ibb.co/5hHTJPQ/20221211230555493f2h.png",Rock Extreme
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1  tvg-id="Showcase.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/2hfs6h79",SHOWCASE
@@ -1405,3 +1405,16 @@ http://onlineradiobox.com/json/id/slow/play
 https://n11.radiojar.com:443/rrqf78p3bnzuv.mp3?1613798267=&rj-tok=AAABd73ok20AEvV31cQDN-_2tg&rj-ttl=5
 #EXTINF:-1  tvg-id="N/A" group-title="RADIO" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/19108.v6.png",V RADIO
 http://202.147.199.100:8000/;stream.nsv
+
+
+
+
+
+
+
+
+
+
+
+
+
