@@ -5,7 +5,7 @@ x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,ht
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://devds.site/api/indihoy/key.php
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", Sony GEM
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+https://streaming.indihometv.com/joss/133/useeprime/playlist.m3u8?enc=-NDEDTKlUUKM0edhWJHQ7g&exp=1673952718&encp=gZ6FEX2XUT8hS24jHFq32Q&expp=1673961418
 
 
 
