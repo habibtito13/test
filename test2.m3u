@@ -205,6 +205,9 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1  tvg-id="ABCAustralia.au" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/n3Udup66KQxlWEE93L2NAAOPSPs=/640x360/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/image/7150/abc-australia-2523d9.jpg",ABC Australia
 https://anevia114.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
+#EXTINF:-1  tvg-id="AmericasTestKitchen.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/prMkTsZ.png",America's Test Kitchen
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84f54a82f05300080e6746/master.m3u8?advertisingId=&appName=web&appVersion=5.10.0-63088da67b32904787b837429cfa9c5c605b7626&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=730453b0-df89-477c-a53d-9f59f9f46f37&deviceLat=37.7510&deviceLon=-97.8220&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.186&includeExtendedEvents=false&marketingRegion=US&serverSideAds=true&sid=130d48cd-22f9-11eb-9bad-0242ac110002&userId=
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-id="AnimalPlanetMalaysia.my" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://pngset.com/images/advertise-animal-planet-new-logo-axe-mammal-sea-life-whale-transparent-png-2563933.png",Animal Planet HD
@@ -237,7 +240,7 @@ https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="BiznetAdventure.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://tinyurl.com/bdh2k2pu",Biznet Adventure
+#EXTINF:-1  tvg-id="BiznetAdventure.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://tinyurl.com/33b7x5wp",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -260,7 +263,7 @@ https://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46
 
 #EXTINF:-1  tvg-id="CookingChannel.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.ibb.co/yhvPwvG/Cooking-Channel-svg.png",Cooking Channel
-http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/208683
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/478
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -292,7 +295,7 @@ http://210.210.155.37/x6bnqe/s/s36/index.m3u8
 https://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
 
 #EXTINF:-1 tvg-id="DiscoveryScienceCanada.ca" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science
-http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/32006
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/295051
 
 # #EXTINF:-1 tvg-id="DiscoveryScienceUK.uk" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png",Discovery Science UK
 # http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/101016
@@ -303,16 +306,22 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sc
 #EXT  INF:-1  tvg-id="DuniaGamesTV.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/o0WVl7b.png",Dunia Games
 # https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/manifest.mpd
 
-#EXTINF:-1  tvg-id="DuniaLain.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://images.useetv.com/logo_dunialain_big.png",Dunia Lain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/25658
+# #EXTINF:-1  tvg-id="DuniaLain.id" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="http://images.useetv.com/logo_dunialain_big.png",Dunia Lain
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# http://www.goldentv.tech:25461/Nopri/Nopri/25658
 
 #EXTINF:-1  tvg-id="eGGNetwork.my" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.ibb.co/rvBqSzW/VyYo7NF.png",Egg Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157484
 
-#EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/X5WC3X1.png",El John TV
-https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive/chunklist.m3u8
+# #EXTINF:-1  tvg-id="N/A" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/X5WC3X1.png",El John TV
+# https://5fa0680b8b7b9.streamlock.net/eljohntvlive/eljohntvlive/chunklist.m3u8
+
+#EXTINF:-1  tvg-id="FoodNetworkCanada.ca" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/ljYzkQT.png",Food Network
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1724
+
+#EXTINF:-1  tvg-id="FoodTV.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/WGUPTnL.png",Food TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5877ac8cb791f4eb4a140d81&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=601&terminate=false&userId=
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -392,8 +401,8 @@ https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTVLCOPT:file-caching=1000
 https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheOutdoorCookingChannel.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/JAqFKlA.png",The Outdoor Cooking Channel
-http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418016
+# #EXTINF:-1 tvg-id="TheOutdoorCookingChannel.us" group-title="ENTERTAINMENT & KNOWLEDGE" tvg-logo="https://i.imgur.com/JAqFKlA.png",The Outdoor Cooking Channel
+# http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418016
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -435,7 +444,7 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 
 #EXTINF:-1  tvg-id="ANTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/sDmXVSm.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/25718
+http://45.126.83.51/session/3d825d52-5c72-11ed-a06a-c81f66f89318/qwr9ew/s/s07/index3.m3u8
 
 #EXTINF:-1  tvg-id="ANTV.id" group-title="LOKAL" tvg-logo="https://i.imgur.com/sDmXVSm.png",ANTV Vision+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -742,6 +751,12 @@ http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93643
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://iptvtree.net:8080/live/protoniumtv2020/17WRSJzBtnYMn0jg4zK5/49557.m3u8
 
+#EXTINF:-1  tvg-id="AEEast.us" group-title="MOVIES" tvg-logo="https://i.ibb.co/CBLYRw6/A-E-Network-logo-svgs.png",A&E
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1729
+
+#EXTINF:-1  tvg-id="AdultSwimCanada.ca" group-title="MOVIES" tvg-logo="https://i.ibb.co/3y4DzKj/Adult-Swim-2003-logo-svg.png",Adult Swim
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9218
+
 #EXTINF:0 tvg-id="ABCSpark.ca" tvg-name="" tvg-logo="https://i.ibb.co/2cpdQXF/MOU2PAf.png" group-title="MOVIES",ABC Spark 
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418413
 
@@ -781,8 +796,8 @@ https://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 # https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8
 
 #EXTINF:-1  tvg-id="CCMMalaysia.my" group-title="MOVIES" tvg-logo="https://i.ibb.co/188GqsK/X7OZ3w5.png",Celestial Classic Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/25987
+http://45.126.83.51/session/c297d874-5ca8-11ed-aeaf-b82a72d63267/qwr9ew/s/s31/index.m3u8
+http://210.210.155.37/qwr9ew/s/s31/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -790,6 +805,7 @@ http://www.goldentv.tech:25461/Nopri/Nopri/25987
 https://anevia114.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1  tvg-id="CelestialMoviesIndonesia.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/cbnWMGc/Mb5ssnu.png",Celestial Movies
+http://45.126.83.51/session/8a8acede-5cab-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
 http://210.210.155.37/dr9445/h/h14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -822,21 +838,24 @@ http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93649
 http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93650
 
 #EXTINF:-1  tvg-id="CTVComedyChannel.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/5n93wa5s",CTV Comedy Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/479
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418529
 
 #EXTINF:-1  tvg-id="CTVDramaChannel.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/3tsbwzwm",CTV Drama Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9220
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418530
 
 #EXTINF:-1  tvg-id="CTVSciFiChannel.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/edrf7ets",CTV Sci-Fi Channel
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/60157
 http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/418452
 
 #EXT  INF:-1 tvg-id="CitraBioskop.id" group-title="MOVIES" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",Citra Bioskop
 # #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 # http://tvn.x10.mx/playlist/master-2.m3u8
 
-#EXTINF:-1  tvg-id="CitraDrama.id" group-title="MOVIES" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TsewQEq0lm4dgqMP2wgn1-B36c4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/23423
+# #EXTINF:-1  tvg-id="CitraDrama.id" group-title="MOVIES" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TsewQEq0lm4dgqMP2wgn1-B36c4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# http://www.goldentv.tech:25461/Nopri/Nopri/23423
 
 # #EXT  INF:-1  tvg-id="CitraEntertainment.id" group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/Yg0BipGem9vJ1HU_M2nta2S1fgE=/372x211/filters:format(webp):quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6402/citra-entertainment-271b80.jpg",Citra Entertainment
 # #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -847,9 +866,9 @@ http://www.goldentv.tech:25461/Nopri/Nopri/23423
 #EXTINF:-1  tvg-id="DragonTV.cn" group-title="MOVIES" tvg-logo="https://i.imgur.com/WqM6xnF.png",Dragon TV
 https://anevia114.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
-#EXTINF:-1  tvg-id="Flik.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/C0bR1P3/flik-home-tv.png",Flik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/25980
+# #EXTINF:-1  tvg-id="Flik.id" group-title="MOVIES" tvg-logo="https://i.ibb.co/C0bR1P3/flik-home-tv.png",Flik
+# #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+# http://www.goldentv.tech:25461/Nopri/Nopri/25980
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -868,7 +887,7 @@ https://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-
 
 #EXTINF:-1 tvg-id="GEM.sg" group-title="MOVIES" tvg-logo="https://i.imgur.com/bZ6k1nA.png",GEM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://www.goldentv.tech:25461/Nopri/Nopri/39806
+http://210.210.155.37/uq2663/h/h19/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -949,12 +968,15 @@ http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93659
 http://210.210.155.37/uq2663/h/h192/index.m3u8
 
 #EXTINF:-1  tvg-id="MyCinemaAsia.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_mycinemaasia_big.png?v=1",My Cinema Asia
+http://45.126.83.51/session/07b02b70-6aee-11ed-b1c0-b82a72d63267/uq2663/h/h193/index.m3u8
 http://210.210.155.37/uq2663/h/h193/index.m3u8
 
 #EXTINF:-1  tvg-id="MyCinemaEurope.ch" group-title="MOVIES" tvg-logo="https://th.bing.com/th/id/OIP.hbYn9wvJM16JAWpLFpyjlQHaDl?pid=ImgDet&rs=1",My Cinema Europe
+http://45.126.83.51/session/5efb1578-5ca9-11ed-8b6a-b82a72d63267/uq2663/h/h18/index.m3u8
 http://210.210.155.37/uq2663/h/h18/index.m3u8
 
 #EXTINF:-1  tvg-id="MyFamily.id" group-title="MOVIES" tvg-logo="https://www.useetv.com/pimages/logo_myfamilychannel_big.png?v=1",My Family Channel
+http://45.126.83.51/session/1f7e4d0e-6aee-11ed-b1c0-b82a72d63267/uq2663/h/h194/index.m3u8
 http://210.210.155.37/uq2663/h/h194/index.m3u8
 
 #EXTINF:-1  tvg-id="OneTVAsia.sg" group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522360_ico.png?ts=1655232857",ONE
@@ -966,16 +988,18 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/165077
 https://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id="ParamountNetworkEast.us" tvg-logo="https://tinyurl.com/y53d8rpz" group-title="MOVIES",Paramount Network
-http://griffsuperstreamz.com:8080/dennispjohnson84@yahoo.com/3RZIBX3xSo/488053
+http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/451
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1  tvg-id="ROCKEntertainment.sg" group-title="MOVIES" tvg-logo="https://i.ibb.co/5BY0H80/PWzq0aU.png",Rock Entertainment
+http://45.126.83.51/session/ec5aea6e-69a7-11ed-991d-c81f66f89318/dr9445/h/h16/index.m3u8
 http://210.210.155.37/dr9445/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-id="ROCKExtreme.sg" group-title="MOVIES" tvg-logo="https://i.ibb.co/5hHTJPQ/20221211230555493f2h.png",Rock Extreme
+#EXTINF:-1  tvg-id="ROCKExtreme.sg" group-title="MOVIES" tvg-logo="https://i.ibb.co/5hHTJPQ/20221211230555493f2h.png",Rock Action
+http://45.126.83.51/session/978fb33c-48ed-11ed-8c69-b82a72d63267/dr9445/h/h15/index.m3u8
 http://210.210.155.37/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1  tvg-id="Showcase.ca" group-title="MOVIES" tvg-logo="https://tinyurl.com/2hfs6h79",SHOWCASE
