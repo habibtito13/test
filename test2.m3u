@@ -4,13 +4,13 @@ x-tvg-url="https://iptv-org.github.io/epg/guides/ad/andorradifusio.ad.epg.xml,ht
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://devds.site/api/indihoy/key.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", Sony GEM
-https://streaming.indihometv.com/joss/133/useeprime/playlist.m3u8
+#EXTINF:-1 group-title="idtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", Sony GEM
+https://streaming.indihometv.com/joss/133/useeprime/playlist.m3u8?https://devds.site/api/indihoy/key.php
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://devds.site/api/indihoy/key.php
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", cgtn
-https://cdn09jtedge.indihometv.com/atemedvr/1673949297/0/CGTNDOCUMENTARY_AT/CGTNDOCUMENTARY_AT.mpd
+#EXTINF:-1 group-title="idtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/Gem_TV_logo.png/revision/latest/scale-to-width-down/1000?cb=20201126072306", cgtn
+https://cdn09jtedge.indihometv.com/atemedvr/1673949297/0/CGTNDOCUMENTARY_AT/CGTNDOCUMENTARY_AT.mpd?https://devds.site/api/indihoy/key.php
 
 
 =============KIDS===============
