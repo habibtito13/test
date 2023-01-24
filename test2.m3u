@@ -734,12 +734,12 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/171953
 # #EXTINF:-1  tvg-id="N/A" group-title="MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg",ACTION MOVIES
 # http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
 
-# #EXTINF:0 tvg-id="Andflix.in" tvg-name="" tvg-logo="https://i.imgur.com/pEYSyNG.png" group-title="MOVIES",&flix 
-# http://sansat.net:25461/simon/jfhd734DF173hdsfnaf/93643
+#EXTINF:0 tvg-id="Andflix.in" tvg-name="" tvg-logo="https://i.imgur.com/pEYSyNG.png" group-title="MOVIES",&flix 
+http://watchindia.net:8880/live/62379/61325/2088.ts
 
 #EXTINF:-1  tvg-id="AndpriveHD.in" group-title="MOVIES" tvg-logo="https://i.ibb.co/ZmW68P7/qyyUlg3.png",&prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://rctv.tech:80/openbox28/kafta145/1043717
+http://watchindia.net:8880/live/62379/61325/2103.ts
 
 #EXTINF:-1  tvg-id="AEEast.us" group-title="MOVIES" tvg-logo="https://i.ibb.co/CBLYRw6/A-E-Network-logo-svgs.png",A&E
 http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/149136
