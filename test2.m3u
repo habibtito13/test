@@ -739,7 +739,7 @@ http://watchindia.net:8880/live/62379/61325/2103.ts
 #EXTINF:-1  tvg-id="AEEast.us" group-title="MOVIES" tvg-logo="https://i.ibb.co/CBLYRw6/A-E-Network-logo-svgs.png",A&E
 http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/149136
 
-#EXTINF:-1  tvg-id="AdultSwimEast.us" group-title="MOVIES" tvg-logo="https://i.ibb.co/3y4DzKj/Adult-Swim-2003-logo-svg.png",Adult Swim
+#EXTINF:-1  tvg-id="AdultSwimCanada.ca" group-title="MOVIES" tvg-logo="https://i.ibb.co/3y4DzKj/Adult-Swim-2003-logo-svg.png",Adult Swim
 http://sharkytv.com:2082/topsmoothexc/SbyIeyH2Yj/135310
 
 #EXTINF:0 tvg-id="ABCSpark.ca" tvg-name="" tvg-logo="https://i.ibb.co/2cpdQXF/MOU2PAf.png" group-title="MOVIES",ABC Spark 
